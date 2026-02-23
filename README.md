@@ -19,112 +19,115 @@
 - `` 做导师的第一届博士好不好？  **[[Link](https://www.zhihu.com/question/339449769/answer/1419213630?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632)]** 
 
 
-7. [本硕双非决战985博士，一战失败，二战成名！](https://mp.weixin.qq.com/s/SvQysj1ilCqheXzswlGnhg)  2020.08.13. 
+- `2020.08.13` 本硕双非决战985博士，一战失败，二战成名！  **[[Link](https://mp.weixin.qq.com/s/SvQysj1ilCqheXzswlGnhg)]**  
 
 
-8. [一位疫情期间上岸博士的经验分享](https://mp.weixin.qq.com/s/X3Kx36XtObJsJmvMyFsp0A). 2020.08.06. 
+- `2020.08.06` 一位疫情期间上岸博士的经验分享  **[[Link](https://mp.weixin.qq.com/s/X3Kx36XtObJsJmvMyFsp0A)]**
 
 
-9. [读博士需要什么品质和心态？到底什么样的人适合读博士？](https://mp.weixin.qq.com/s/N29_KR6XvTn4vIiPoqwz-A) 2020.06.27. 
+- `2020.06.27` 读博士需要什么品质和心态？到底什么样的人适合读博士？  **[[Link](https://mp.weixin.qq.com/s/N29_KR6XvTn4vIiPoqwz-A)]**
 
 
-10. [【学术相关】国内考博需要怎么准备？难度大吗？有什么建议？](https://mp.weixin.qq.com/s/3jNnBnUP44Xh49NDaOayOg) 2021.02.06. 
+- `2021.02.06` 【学术相关】国内考博需要怎么准备？难度大吗？有什么建议？  **[[Link](https://mp.weixin.qq.com/s/3jNnBnUP44Xh49NDaOayOg)]** 
 
 
-11. [4位女博士总结的经验：什么性格的人适合考博？](https://mp.weixin.qq.com/s/DagpVV7P9_og-Y4aIjLLoQ) 2021.02.12. 
+- `2021.02.12` 4位女博士总结的经验：什么性格的人适合考博？  **[[Link](https://mp.weixin.qq.com/s/DagpVV7P9_og-Y4aIjLLoQ)]** 
 
 
-12. [为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态……](https://mp.weixin.qq.com/s/sLaxNRobwzlwf64xrnCLHQ) 2021.03.08. 
+- `2021.03.08` 为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态……  **[[Link](https://mp.weixin.qq.com/s/sLaxNRobwzlwf64xrnCLHQ)]** 
 
 
-13. [我的考博故事：选择大于努力，一位好导师的助力](https://mp.weixin.qq.com/s/VLVJO8f7Oz-TACQO9fHxHQ) 2021.03.10. 
+- `2021.03.10` 我的考博故事：选择大于努力，一位好导师的助力  **[[Link](https://mp.weixin.qq.com/s/VLVJO8f7Oz-TACQO9fHxHQ)]** 
 
 
-14. [博士研究生自我放弃指南](https://mp.weixin.qq.com/s/PHRzhBI-YL2pSSYHLMn70g). 2021.03.14. 
+- `2021.03.14` 博士研究生自我放弃指南  **[[Link](https://mp.weixin.qq.com/s/PHRzhBI-YL2pSSYHLMn70g)]** 
 
 
-15. [“现在申博士，一定要搞好计划书！”](https://mp.weixin.qq.com/s/EAvIwNdLsa7be5Hvaa-Cyw). 2021.03.14. 
+- `2021.03.14` “现在申博士，一定要搞好计划书！”  **[[Link](https://mp.weixin.qq.com/s/EAvIwNdLsa7be5Hvaa-Cyw)]** 
 
 
-16. [为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态](https://mp.weixin.qq.com/s/dFRT7qf_8cLwGdAJPFDm6A). 2021.03.22. 
+- `2021.03.22` 为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态  **[[Link](https://mp.weixin.qq.com/s/dFRT7qf_8cLwGdAJPFDm6A)]**  
 
 
-17. [攻读数据科学硕士学位必须考虑的5个因素](https://mp.weixin.qq.com/s/8toc4mwmS2AHvreEQRMauw). 2021.03.27. 
+- `2021.03.27` 攻读数据科学硕士学位必须考虑的5个因素  **[[Link](https://mp.weixin.qq.com/s/8toc4mwmS2AHvreEQRMauw)]** 
 
 
-18. [【科研经验】刚读博士想退学？如何避免博士毕业不了？](https://mp.weixin.qq.com/s/xLCuWxjx_UhcrgbDobkrZw) 2021.05.02. 
+- `2021.05.02` 【科研经验】刚读博士想退学？如何避免博士毕业不了？  **[[Link](https://mp.weixin.qq.com/s/xLCuWxjx_UhcrgbDobkrZw)]** 
 
 
-19. [【学术相关】直博和读完硕士再读博，在能力上的差距有多大？](https://mp.weixin.qq.com/s/LdW9_OewUJMBDyeFGoQbEw) 2021.05.17. 
+- `2021.05.17` 【学术相关】直博和读完硕士再读博，在能力上的差距有多大？  **[[Link](https://mp.weixin.qq.com/s/LdW9_OewUJMBDyeFGoQbEw)]** 
 
 
-20. [读博士需要什么品质和能力？到底什么样的人适合读博士？](https://mp.weixin.qq.com/s/1WCNR0LSNbscVzCSV5DWrA) 2021.06.12. 
+- `2021.06.12` 读博士需要什么品质和能力？到底什么样的人适合读博士？  **[[Link](https://mp.weixin.qq.com/s/1WCNR0LSNbscVzCSV5DWrA)]** 
 
 
-21. [如何做好“学术自荐”，这里有五点建议！](https://mp.weixin.qq.com/s/XW8MoPGj6LPP--LACCn3sQ) 2021.06.19. 
+- `2021.06.19` 如何做好“学术自荐”，这里有五点建议！  **[[Link](https://mp.weixin.qq.com/s/XW8MoPGj6LPP--LACCn3sQ)]** 
 
 
-22. [读博，我想好了！](https://zhuanlan.zhihu.com/p/383411366?utm_source=wechat_session&utm_medium=social&utm_oi=38273409875968&s_r=0) 2021.06.24. 
+- `2021.06.24` 读博，我想好了！  **[[Link](https://zhuanlan.zhihu.com/p/383411366?utm_source=wechat_session&utm_medium=social&utm_oi=38273409875968&s_r=0)]**
 
 
-23. [目睹太多读博惨案之后，清华姚班助理教授写了个读博决策树](https://mp.weixin.qq.com/s/WXh1-V7nGORW3aFEz42axQ). 2021.06.24. 
+- `2021.06.24` 目睹太多读博惨案之后，清华姚班助理教授写了个读博决策树  **[[Link](https://mp.weixin.qq.com/s/WXh1-V7nGORW3aFEz42axQ)]** 
 
 
 24. [35岁那年，没有躺平，做了最重要的决定：读博士！](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ) 2021.06.30. | [十年树木](https://mp.weixin.qq.com/s/MWwNBIBmev0DNIBZBX-Qsg) 2021.08.24. 
 
 
-25. [读博是一场肖申克的救赎？那些我读博之后才明白的道理！](https://mp.weixin.qq.com/s/nc0UEp0UAGyJi3Pqfra15w) 2021.06.30. 
+- `2021.06.30` 读博是一场肖申克的救赎？那些我读博之后才明白的道理！  **[[Link](https://mp.weixin.qq.com/s/nc0UEp0UAGyJi3Pqfra15w)]** 
 
 
-26. [想好入坑读博？CMU- Balter教授这份申请计算机博士指南，帮你想清楚](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) 2014. [Report](https://mp.weixin.qq.com/s/Ec66Pf3D5_hN1mPW8fA01g)
+- `` 想好入坑读博？CMU- Balter教授这份申请计算机博士指南，帮你想清楚](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) 2014. [Report](https://mp.weixin.qq.com/s/Ec66Pf3D5_hN1mPW8fA01g)
 
 
-27. [博士延期的我，女友已经是副教授了](https://mp.weixin.qq.com/s/3VLEw3ZJMv-HIqiR8fwKEA) 2021.08.14. 
+- `2021.08.14` 博士延期的我，女友已经是副教授了  **[[Link](https://mp.weixin.qq.com/s/3VLEw3ZJMv-HIqiR8fwKEA)]**
 
 
-28. [Nature：希望你在读博士之初就能知道的 20 件事](https://mp.weixin.qq.com/s/_qY8Yxh79P1tqPmNwpg5Iw). 2021.08.15. 
+- `2021.08.15` Nature：希望你在读博士之初就能知道的 20 件事  **[[Link](https://mp.weixin.qq.com/s/_qY8Yxh79P1tqPmNwpg5Iw)]** 
 
 
-29. [美国顶尖大学的博士是怎样练成的？](https://mp.weixin.qq.com/s/75e546cOzdFYeQPnFsZ7hw) 2021.10.20. 
+- `2021.10.20` 美国顶尖大学的博士是怎样练成的？  **[[Link](https://mp.weixin.qq.com/s/75e546cOzdFYeQPnFsZ7hw)]**
 
 
-30. [美“每周的运动必不可少” 有哪些东西是你读博士以后才懂的？](https://mp.weixin.qq.com/s/erlCqwtTRUwUstGMprMT5g) 2022.03.19. 
+- `2022.03.19` 美“每周的运动必不可少” 有哪些东西是你读博士以后才懂的？  **[[Link](https://mp.weixin.qq.com/s/erlCqwtTRUwUstGMprMT5g)]**  
 
 
-31. [博士入坑必读教材-《A-Z博士（PhD）顺利毕业必读指南》新书免费分享](./book/The_A-Z_of_the_Phd_Trajectory.pdf). 2022.04.11. | [[Report]](https://mp.weixin.qq.com/s/siwSoapCfI20Sa7i-faiwQ)
+- `2022.04.11` 博士入坑必读教材-《A-Z博士（PhD）顺利毕业必读指南》新书免费分享  **[[PDF](./book/The_A-Z_of_the_Phd_Trajectory.pdf)]**
 
 
-32. [犹豫是否读个博士？这里综合前途、家庭、爱好帮你分析下~](https://mp.weixin.qq.com/s/_wlKYSkESHkLWeueU13Ayw) 2022.05.03. 
+- `` [Report]  **[[Link](https://mp.weixin.qq.com/s/siwSoapCfI20Sa7i-faiwQ)]**
 
 
-33. [读博士可能后悔四年，不读博士可能后悔一辈子](https://mp.weixin.qq.com/s/9hNl7FPEKBhPM4x0XdkzBQ). 2022.05.18. 
+- `2022.05.03` 犹豫是否读个博士？这里综合前途、家庭、爱好帮你分析下~  **[[Link](https://mp.weixin.qq.com/s/_wlKYSkESHkLWeueU13Ayw)]** 
 
 
-34. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/article/7086361789520429601/?app=news_article&timestamp=1654753462&use_new_style=1&req_id=20220609134421010158167134233BB555&group_id=7086361789520429601&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=f584f801-7885-4728-b736-38a881564891&source=m_redirect&wid=1654830597122). 2022.04.14. 
+- `2022.05.18` 读博士可能后悔四年，不读博士可能后悔一辈子  **[[Link](https://mp.weixin.qq.com/s/9hNl7FPEKBhPM4x0XdkzBQ)]** 
 
 
-35. [行业现状令人失望，工作之后我又回到UC伯克利读博了](https://mp.weixin.qq.com/s/KW2hFdvitKYtmIiKmwANAw). 2022.07.19. 
+- `2022.04.14` 博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞  **[[Link](https://www.toutiao.com/article/7086361789520429601/?app=news_article&timestamp=1654753462&use_new_style=1&req_id=20220609134421010158167134233BB555&group_id=7086361789520429601&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=f584f801-7885-4728-b736-38a881564891&source=m_redirect&wid=1654830597122)]**
 
 
-36. [清华姚班教授: 「读博，你真的想好了吗？」与 UIUC 王鸿伟「读博，我想好了！」](https://mp.weixin.qq.com/s/6kXKWCOgLutXl6quzJbkBw). 2022.07.23. 
+- `2022.07.19` 行业现状令人失望，工作之后我又回到UC伯克利读博了  **[[Link](https://mp.weixin.qq.com/s/KW2hFdvitKYtmIiKmwANAw)]** 
 
 
-37. [【视频版】 辞职考研读博？年龄收入焦虑怎么办？](https://mp.weixin.qq.com/s/bCuQ9RdA84c63KFMsODw1Q) 2022.08.10. 
+- `2022.07.23` 清华姚班教授: 「读博，你真的想好了吗？」与 UIUC 王鸿伟「读博，我想好了！」  **[[Link](https://mp.weixin.qq.com/s/6kXKWCOgLutXl6quzJbkBw)]** 
 
 
-38. [工作20年，大龄青年去MIT读博：从经济读到航天](https://mp.weixin.qq.com/s/B4H6WfCe0VI6tQkIIaN0yA) 2022.08.18. 
+- `2022.08.10` 【视频版】 辞职考研读博？年龄收入焦虑怎么办？  **[[Link](https://mp.weixin.qq.com/s/bCuQ9RdA84c63KFMsODw1Q)]** 
 
 
-39. [为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态](https://mp.weixin.qq.com/s/anksGByVDQbw9znCsCrhww) 2022.08.22. 
+- `2022.08.18` 工作20年，大龄青年去MIT读博：从经济读到航天  **[[Link](https://mp.weixin.qq.com/s/B4H6WfCe0VI6tQkIIaN0yA)]**
 
 
-40. [2023 年，陆奇给 20、30、40 岁年轻人的建议](https://mp.weixin.qq.com/s/rxaCL1IoMe74o6LMFywQ-g) 2023.05.23. 
+- `2022.08.22` 为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态  **[[Link](https://mp.weixin.qq.com/s/anksGByVDQbw9znCsCrhww)]**
+
+
+- `2023.05.23` 2023 年，陆奇给 20、30、40 岁年轻人的建议  **[[Link](https://mp.weixin.qq.com/s/rxaCL1IoMe74o6LMFywQ-g)]** 
 
 
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
-1. [鸡汤 | 一篇所有研究生都该读的好文：阳光温热 科研静好](https://mp.weixin.qq.com/s/sPHPpKpza8n7a0zKG8rIhA) 2020.11.06.
+- `2020.11.06` 鸡汤 | 一篇所有研究生都该读的好文：阳光温热 科研静好  **[[Link](https://mp.weixin.qq.com/s/sPHPpKpza8n7a0zKG8rIhA)]**
 
 
 <!-- 2. [​我为什么读博， 以及我为什么不读博？这是个问题！](https://mp.weixin.qq.com/s/v6vGNV4eAAcApb0b2h_Xgg) 2020.11.05. -->
