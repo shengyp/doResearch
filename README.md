@@ -172,64 +172,73 @@
 - `2020.08.14` 如何规划自己的博士五年生活？  **[[Link](https://mp.weixin.qq.com/s/CK9VuozM4Ot23sz2VGAkDQ)]**
 
 
-15. [顶会最佳论文奖得主：初入科研领域，如何正确做科研？](https://mp.weixin.qq.com/s/nMpERKYOmNhLNQrXUxcBfA)  2020.08.06. 
+- `2020.08.06` 顶会最佳论文奖得主：初入科研领域，如何正确做科研？  **[[Link](https://mp.weixin.qq.com/s/nMpERKYOmNhLNQrXUxcBfA)]** 
 
 
-16. [科研新手入门初探](https://mp.weixin.qq.com/s/BnKESACUwSOOff2y4tWVCw). 2020.07.06. 
+- `2020.07.06` 科研新手入门初探  **[[Link](https://mp.weixin.qq.com/s/BnKESACUwSOOff2y4tWVCw)]** 
 
 
-17. [[ICLR 2020] Tips for prospective and early-stage PhD students (如何读一个成功的机器学习博士)](./report/Tips_for_prospective_and_early-stage_PhD_students.pdf). 2020.05.02. 
+- `2020.05.02` [ICLR 2020] Tips for prospective and early-stage PhD students (如何读一个成功的机器学习博士)  **[[Link](./report/Tips_for_prospective_and_early-stage_PhD_students.pdf)]**  
 
 
-18. Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x). [[这20件事，我真希望我读博前就知道]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
+- `` Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD]  **[[Link](https://www.nature.com/articles/d41586-018-07332-x)]**\
 
 
-19. [Doing the PhD](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444). [[如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期]](https://mp.weixin.qq.com/s/KslzBsIINqhmCLR9xgcH2g) 
+- `` 这20件事，我真希望我读博前就知道  **[[Link](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g)]** 
 
 
-20. [Making a Positive Start to Your PhD or Professional Doctorate (为读博入坑开个好头)](https://3b019afd-1feb-4a2f-85e6-8dceac7c66ea.filesusr.com/ugd/489d73_620fda29be1542549ad753cbc8df8ebe.pdf). 2020.07.01
+- `` Doing the PhD  **[[Link](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444)]**
 
 
-21. [Advice to PhD students (读博士有风险？这43条建议为你指向希望的彼岸)](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf). 2017.12.14.
+- `` 如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期  **[[Link](https://mp.weixin.qq.com/s/KslzBsIINqhmCLR9xgcH2g)]** 
 
 
-22. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
+- `2020.07.01` Making a Positive Start to Your PhD or Professional Doctorate (为读博入坑开个好头)  **[[PDF](https://3b019afd-1feb-4a2f-85e6-8dceac7c66ea.filesusr.com/ugd/489d73_620fda29be1542549ad753cbc8df8ebe.pdf)]**
 
 
-23. [博士生“生存法则”17条！](https://mp.weixin.qq.com/s/SddErcqWERnJ7jxmFH9E4g) 2021.02.16. 
+- `2017.12.14` Advice to PhD students (读博士有风险？这43条建议为你指向希望的彼岸)  **[[PDF](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf)]**
 
 
-24. [博士生应被看作学者还是学生？中美对比分析！](https://mp.weixin.qq.com/s/BiqBnkBcCzAaNl1TlUeBQg) 2021.03.16. 
+- `2014.12` Ten Simple Rules for Finishing your PhD  **[[Link](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable)]**
 
 
-25. [机器学习博士自救指南（严肃者慎入）](https://mp.weixin.qq.com/s/qKEbBp_9FJZE6KdlWMz2hw) 2021.03.31. 
+- `` 这十条简单法则帮助你博士顺利毕业 (附全文)  **[[Link](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3)]** 
 
 
-26. [爱可可老师：一个研究生的自我修养！](https://mp.weixin.qq.com/s/jScYc1EcnplZjP3_YVYnsg) 2021.04.22. 
+- `2021.02.16` 博士生“生存法则”17条！  **[[Link](https://mp.weixin.qq.com/s/SddErcqWERnJ7jxmFH9E4g)]** 
 
 
-27. [99岁杨振宁寄语青年学子：要清楚方向、选对方向](https://mp.weixin.qq.com/s/S2xrDMN5AWJ88z7CnjKIJg) 2021.04.26. 
+- `2021.03.16` 博士生应被看作学者还是学生？中美对比分析！  **[[Link](https://mp.weixin.qq.com/s/BiqBnkBcCzAaNl1TlUeBQg)]** 
 
 
-28. [直博和读完硕士再读博，在能力上的差距有多大？](https://mp.weixin.qq.com/s/ByvYvguOToP9dRVr9Itsyw) 2021.05.25. 
+- `2021.03.31` 机器学习博士自救指南（严肃者慎入）  **[[Link](https://mp.weixin.qq.com/s/qKEbBp_9FJZE6KdlWMz2hw)]** 
 
 
-29. [研究生期间如何成为科研大佬？](https://mp.weixin.qq.com/s/dcy9w-KjP3TgFKikQbn02w) 2021.09.07. 
+- `2021.04.22` 爱可可老师：一个研究生的自我修养！  **[[Link](https://mp.weixin.qq.com/s/jScYc1EcnplZjP3_YVYnsg)]** 
 
 
-30. [如何做好科研？10篇顶会paper，入选微软学者，上海交大吴齐天的科研思考！](https://mp.weixin.qq.com/s/Qd1WZLiLhZF85y_dpfvIqA) 2021.11.07. 
+- `2021.04.26` 99岁杨振宁寄语青年学子：要清楚方向、选对方向  **[[Link](https://mp.weixin.qq.com/s/S2xrDMN5AWJ88z7CnjKIJg)]** 
 
 
-31. [姚期智演讲实录：做研究最好的方法是提出深刻、大胆和关键性的问题](./report/姚期智演讲实录：做研究最好的方法是提出深刻、大胆和关键性的问题.pdf). 2021.11.
+- `2021.05.25` 直博和读完硕士再读博，在能力上的差距有多大？  **[[Link](https://mp.weixin.qq.com/s/ByvYvguOToP9dRVr9Itsyw)]**
 
 
-32. [【学术人生】读博五年！我总结出了7条帮你「少走弯路」的真理！](https://mp.weixin.qq.com/s/mkoHnfJQkhiseDX-7oRS5Q). 2022.02.05
+- `2021.09.07` 研究生期间如何成为科研大佬？  **[[Link](https://mp.weixin.qq.com/s/dcy9w-KjP3TgFKikQbn02w)]** 
 
 
-33. [机器学习博士在获得学位之前需要掌握的九种工具！](https://mp.weixin.qq.com/s/xVZuUWWUuRRsGcGxnkDy_g). 2022.02.20
+- `2021.11.07` 如何做好科研？10篇顶会paper，入选微软学者，上海交大吴齐天的科研思考！  **[[Link](https://mp.weixin.qq.com/s/Qd1WZLiLhZF85y_dpfvIqA)]** 
 
 
-34. [如何搞砸你的学术研究之路？图灵奖伯克利教授David Patterson经典报告让你避坑，附视频与报告](https://mp.weixin.qq.com/s/KDss_ap1ar8bnrtqDBMVvw). 2022.02.23. [[Report]](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) | [[Video]](https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGtHmjn3IFwsEyDO9cWZzW1dw7GuUNgM9bvDBe1iadqDiab4slj4fBdiaSPpAvMiaH9YUzeEqKUOjanzWGsWfpltxTSbRAvlribfrl7IXHQ43WaEsg&token=AxricY7RBHdVyd75w0drSTtjz9f25y2SibyQNBTIxiasg6eIX4nKdr65dspfn0ydtfrwMEUv8ibgjhw&idx=1&adaptivelytrans=943&bizid=1023&dotrans=2991&hy=SH&m=824da4ab1becdf974b789b979d37310d&scene=0&t=1)
+- `2021.11` 姚期智演讲实录：做研究最好的方法是提出深刻、大胆和关键性的问题  **[[PDF](./report/姚期智演讲实录：做研究最好的方法是提出深刻、大胆和关键性的问题.pdf)]**
+
+
+- `2022.02.05`【学术人生】读博五年！我总结出了7条帮你「少走弯路」的真理！  **[[Link](https://mp.weixin.qq.com/s/mkoHnfJQkhiseDX-7oRS5Q)]** 
+
+
+- `2022.02.20` 机器学习博士在获得学位之前需要掌握的九种工具！  **[[Link](https://mp.weixin.qq.com/s/xVZuUWWUuRRsGcGxnkDy_g)]** 
+
+
+- `2022.02.23` 如何搞砸你的学术研究之路？图灵奖伯克利教授David Patterson经典报告让你避坑，附视频与报告  **[[Link](https://mp.weixin.qq.com/s/KDss_ap1ar8bnrtqDBMVvw)]** **[[PDF](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)]** **[[Video](https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGtHmjn3IFwsEyDO9cWZzW1dw7GuUNgM9bvDBe1iadqDiab4slj4fBdiaSPpAvMiaH9YUzeEqKUOjanzWGsWfpltxTSbRAvlribfrl7IXHQ43WaEsg&token=AxricY7RBHdVyd75w0drSTtjz9f25y2SibyQNBTIxiasg6eIX4nKdr65dspfn0ydtfrwMEUv8ibgjhw&idx=1&adaptivelytrans=943&bizid=1023&dotrans=2991&hy=SH&m=824da4ab1becdf974b789b979d37310d&scene=0&t=1)]**
 
 
 35. [钱颖一：从清华学生身上，我发现了这7个普遍现象……](https://mp.weixin.qq.com/s/CV0VPJwb4QW7sGFJglKisA). 2022.02.22
