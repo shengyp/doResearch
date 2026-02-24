@@ -130,46 +130,46 @@
 - `2020.11.06` 鸡汤 | 一篇所有研究生都该读的好文：阳光温热 科研静好  **[[Link](https://mp.weixin.qq.com/s/sPHPpKpza8n7a0zKG8rIhA)]**
 
 
-<!-- 2. [​我为什么读博， 以及我为什么不读博？这是个问题！](https://mp.weixin.qq.com/s/v6vGNV4eAAcApb0b2h_Xgg) 2020.11.05. -->
+- `2020.11.05` 我为什么读博， 以及我为什么不读博？这是个问题！  **[[Link](https://mp.weixin.qq.com/s/v6vGNV4eAAcApb0b2h_Xgg)]**
 
 
-2. [985高校教授：给初涉科研同学的八条建议](https://mp.weixin.qq.com/s/AgnVuuthhakib5PbZuOIyA). 2020.10.07.
+- `2020.10.07` 985高校教授：给初涉科研同学的八条建议  **[[Link](https://mp.weixin.qq.com/s/AgnVuuthhakib5PbZuOIyA)]**
 
 
-3. [博士真正搞科研的姿势，是这样的丨知乎高赞](https://mp.weixin.qq.com/s/euKaG52OKGXHjklGFuU_6w). 2020.10.03.
+- `2020.10.03` 博士真正搞科研的姿势，是这样的丨知乎高赞  **[[Link](https://mp.weixin.qq.com/s/euKaG52OKGXHjklGFuU_6w)]**
 
 
-4. [避免掉坑里！佐治亚理工21页优雅读博指南](https://mp.weixin.qq.com/s/gT74rhpLfZRwG7LSnRwB_g). 2020.10.02. [[下载]](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit) 
+- `2020.10.02` 避免掉坑里！佐治亚理工21页优雅读博指南  **[[Link](https://mp.weixin.qq.com/s/gT74rhpLfZRwG7LSnRwB_g)]** **[[下载](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)]** 
 
 
-5. [你准备好做个合格的科研汪了吗？](https://mp.weixin.qq.com/s/XNxAoL5GrXDOXGp7HiSbTw)  2020.09.28.
+- `2020.09.28` 你准备好做个合格的科研汪了吗？  **[[Link](https://mp.weixin.qq.com/s/XNxAoL5GrXDOXGp7HiSbTw)]**
 
 
-6. [导师神总结：读博失败的10个作死大法](https://mp.weixin.qq.com/s/nFacyLoUfYA3W4M7OVvshw). 2020.09.13.
+- `2020.09.13` 导师神总结：读博失败的10个作死大法  **[[Link](https://mp.weixin.qq.com/s/nFacyLoUfYA3W4M7OVvshw)]**
 
 
-7. [读博，每天要不要工作十二小时](https://mp.weixin.qq.com/s/Rsf_iA_bqGBj6y9EA1PucQ). 2020.09.13.
+- `2020.09.13` 读博，每天要不要工作十二小时  **[[Link](https://mp.weixin.qq.com/s/Rsf_iA_bqGBj6y9EA1PucQ)]**
 
 
-8. [张启发院士给自己博士生写的一封信](https://mp.weixin.qq.com/s/xLrzJvcupQeCVrVj5_-02w). 2020.09.11.
+- `2020.09.11` 张启发院士给自己博士生写的一封信  **[[Link](https://mp.weixin.qq.com/s/xLrzJvcupQeCVrVj5_-02w)]**
 
 
-9. [郝清杰｜博士生培养的跨界反思](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.09.08.
+- `2020.09.08` 郝清杰｜博士生培养的跨界反思  **[[Link](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ)]**
 
 
-10. [21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw).
+- `` 21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来  **[[Link](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw)]**
 
 
-11. [博士生的成功秘诀何在？学者：主要看老板！](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ)
+- `` 博士生的成功秘诀何在？学者：主要看老板！  **[[Link](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ)]**
 
 
-12. [一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.08.31.
+- `2020.08.31` 一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等  **[[Link](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ)]**
 
 
-13. [施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/vIlwqtqBWiQNxsLLsSMblg)  2020.08.28.
+- `2020.08.28` 施一公：如何成为一名优秀的博士生？  **[[Link](https://mp.weixin.qq.com/s/vIlwqtqBWiQNxsLLsSMblg)]**
 
 
-14. [如何规划自己的博士五年生活？](https://mp.weixin.qq.com/s/CK9VuozM4Ot23sz2VGAkDQ)  2020.08.14.
+- `2020.08.14` 如何规划自己的博士五年生活？  **[[Link](https://mp.weixin.qq.com/s/CK9VuozM4Ot23sz2VGAkDQ)]**
 
 
 15. [顶会最佳论文奖得主：初入科研领域，如何正确做科研？](https://mp.weixin.qq.com/s/nMpERKYOmNhLNQrXUxcBfA)  2020.08.06. 
@@ -590,83 +590,84 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 
 ## 如何做Rebuttal
-1. [记一次神奇的Rebuttal经历](https://mp.weixin.qq.com/s/RJ9f5FmRH28nFXz3HP-3NA). 2021.03.08.
+- `2021.03.08` 记一次神奇的Rebuttal经历  **[[Link](https://mp.weixin.qq.com/s/RJ9f5FmRH28nFXz3HP-3NA)]**
 
 
-2. [助力AAAI2022 Rebuttal！](https://mp.weixin.qq.com/s/wqUWkzFJwzlTv3P10PcmOw). 2021.11.05.
+- `2021.11.05` 助力AAAI2022 Rebuttal！  **[[Link](https://mp.weixin.qq.com/s/wqUWkzFJwzlTv3P10PcmOw)]**
 
 
 
 ## 如何审论文
-1. [How to be a good reviewer?  Reviewer Tutorial for CVPR 2022](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf) 2021.11.15. [[Report]](https://mp.weixin.qq.com/s/G-tYOXGMjTTj9RIKmIX7xQ) 
+- `2021.11.15` How to be a good reviewer?  Reviewer Tutorial for CVPR 2022  **[[Link](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)]**  **[[Report](https://mp.weixin.qq.com/s/G-tYOXGMjTTj9RIKmIX7xQ)]**
 
 
-2. [当我们谈科学研究的创新性时，我们在谈些什么？——给审稿人的一封信](https://mp.weixin.qq.com/s/PO8kn0oK_9EqplzYHc2UBQ) 2022.02.13. 
+- `2022.02.13` 当我们谈科学研究的创新性时，我们在谈些什么？——给审稿人的一封信  **[[Link](https://mp.weixin.qq.com/s/PO8kn0oK_9EqplzYHc2UBQ)]**
 
 
-3. [摘要拒稿、直接拒稿都太粗暴：近万篇论文，AAAI、IJCAI、ICML都是怎么审的？](https://mp.weixin.qq.com/s/yypFQhyfCZTV9qgknZ5BoA) 2022.03.12. 
+- `2022.03.12` 摘要拒稿、直接拒稿都太粗暴：近万篇论文，AAAI、IJCAI、ICML都是怎么审的？  **[[Link](https://mp.weixin.qq.com/s/yypFQhyfCZTV9qgknZ5BoA)]** 
 
 
-4. [审稿 CVPR 有感：没落的顶会、空虚的文章和失败open review](https://mp.weixin.qq.com/s/KcMJrihuf1t--kdtCIO3Cw). 2024.01.26. 
+- `2024.01.26`审稿 CVPR 有感：没落的顶会、空虚的文章和失败open review  **[[Link](https://mp.weixin.qq.com/s/KcMJrihuf1t--kdtCIO3Cw)]** 
 
 
-5. [国外SCI期刊居然还存在这样的骚操作](https://mp.weixin.qq.com/s/wXTM0L_RcHYimVpuoLV0Bw). 2024.08.09. 
+- `2024.08.09` 国外SCI期刊居然还存在这样的骚操作  **[[Link](https://mp.weixin.qq.com/s/wXTM0L_RcHYimVpuoLV0Bw)]** 
 
 
 
 ## 同行评审
-1. [同行评审就是个笑话！Nature最新爆料计算机生成的垃圾文章竟还能被接受，64%来自中国](https://mp.weixin.qq.com/s/X94rjuqJTlT4juSzAAeYSQ). 2021.05.29.
+- `2021.05.29` 同行评审就是个笑话！Nature最新爆料计算机生成的垃圾文章竟还能被接受，64%来自中国  **[[Link](https://mp.weixin.qq.com/s/X94rjuqJTlT4juSzAAeYSQ)]**
 
 
-2. [做个好审稿人吧！！！](https://sites.google.com/view/making-reviews-great-again/home) 2021.10.15. [[Report]](https://mp.weixin.qq.com/s/895x7v13F8A7Ad_eKkSldQ) 
+- `2021.10.15` 做个好审稿人吧！！！  **[[Link](https://sites.google.com/view/making-reviews-great-again/home) . [[Report]](https://mp.weixin.qq.com/s/895x7v13F8A7Ad_eKkSldQ) 
 
 
-3. [投稿人就是AI顶会最好的「审稿人」！中国学者提出同行评审新机制](https://mp.weixin.qq.com/s/CmgHPLhVGnd1ifXdY5q3iw). 2022.01.01.
+- `2022.01.01` 投稿人就是AI顶会最好的「审稿人」！中国学者提出同行评审新机制  **[[Link](https://mp.weixin.qq.com/s/CmgHPLhVGnd1ifXdY5q3iw)]**
 
 
-4. [ICML 2022审稿结果惹争议！LeCun：我3篇全拒了！马毅：我再也不投了...](https://mp.weixin.qq.com/s/05m-5qvg5N7DBG7niBydxQ). 2022.05.18.
+- `2022.05.18` ICML 2022审稿结果惹争议！LeCun：我3篇全拒了！马毅：我再也不投了...  **[[Link](https://mp.weixin.qq.com/s/05m-5qvg5N7DBG7niBydxQ)]**
 
 
-5. [盛名之下，其实难副？两篇ICML杰出论文受质疑，作者亲自回应了](https://mp.weixin.qq.com/s/34AiRDSEcc0BOPb1ZjuY2Q). 2022.07.22.
+- `2022.07.22` 盛名之下，其实难副？两篇ICML杰出论文受质疑，作者亲自回应了  **[[Link](https://mp.weixin.qq.com/s/34AiRDSEcc0BOPb1ZjuY2Q)]**
 
 
-6. [陶哲轩：张益唐新论文存在一些技术问题，我已请他澄清](https://mp.weixin.qq.com/s/8SpQeGbmsNIl9fLGB_FJ7A). 2022.11.18.
+- `2022.11.18` 陶哲轩：张益唐新论文存在一些技术问题，我已请他澄清  **[[Link](https://mp.weixin.qq.com/s/8SpQeGbmsNIl9fLGB_FJ7A)]** 
 
 
 
 ## 审稿状态
-1. [发表的sci论文怎么样了，分享15种sci投稿状态](https://www.toutiao.com/i6961988009797468676/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1620996150&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210514204229010151180084320B8775&share_token=4cbeda6e-33ce-4dcf-80c4-eafb91432fd3&group_id=6961988009797468676). 2021.05.14.
+- `2021.05.14` 发表的sci论文怎么样了，分享15种sci投稿状态  **[[Link](https://www.toutiao.com/i6961988009797468676/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1620996150&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210514204229010151180084320B8775&share_token=4cbeda6e-33ce-4dcf-80c4-eafb91432fd3&group_id=6961988009797468676)]**
 
 
 
 ## 如何做报告
-1. [Nature：13个维度，手把手教“研究er”如何做报告](https://mp.weixin.qq.com/s/b-jhXzUkfI-am2bcwR_aDA). 2020.08.10.
+- `2020.08.10` Nature：13个维度，手把手教“研究er”如何做报告  **[[Link](https://mp.weixin.qq.com/s/b-jhXzUkfI-am2bcwR_aDA)]**
 
 
-2. [如何做好一场报告？斯坦福Kayvon教授《清晰报告指南》为您讲解](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf). 2021.05.27. [[Report]](https://mp.weixin.qq.com/s/UEp8zhCpsrQFEQ51tQ8wKg) 
+- `2021.05.27` 如何做好一场报告？斯坦福Kayvon教授《清晰报告指南》为您讲解  **[[PDF](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf)]**
+- `` **[[Report](https://mp.weixin.qq.com/s/UEp8zhCpsrQFEQ51tQ8wKg)]** 
 
 
 
 ## 不可小觑的论文工厂
-1. [海外学术造假“论文工厂”正在蓬勃发展](https://www.toutiao.com/i7075222373150016038/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1647395724&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20220316095523010158149148202F5F54&share_token=5e748cdc-0f78-4efe-97ee-0b9b0e27ea7e&group_id=7075222373150016038). 2022.03.15.
+- `2022.03.15` 海外学术造假“论文工厂”正在蓬勃发展  **[[Link](https://www.toutiao.com/i7075222373150016038/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1647395724&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20220316095523010158149148202F5F54&share_token=5e748cdc-0f78-4efe-97ee-0b9b0e27ea7e&group_id=7075222373150016038)]**
 
 
 
 ## 顶会存在的意义
-1. [纽大副教授炮轰NeurIPS、AAAI等顶会：无聊、就不该继续存在](https://mp.weixin.qq.com/s/nuwoaRgqTqJ-6ICaE1FOyw). 2021.05.07.
+- `2021.05.07` 纽大副教授炮轰NeurIPS、AAAI等顶会：无聊、就不该继续存在  **[[Link](https://mp.weixin.qq.com/s/nuwoaRgqTqJ-6ICaE1FOyw)]**
 
 
-2. [你的论文 “后劲儿” 有多大？MIT科学家开发AI预知模型，能更早、更准锁定 “隐藏宝石”](https://mp.weixin.qq.com/s/sPBpQC3p_MQxsnXF9-ArJw). 2021.05.18.
+- `2021.05.18` 你的论文 “后劲儿” 有多大？MIT科学家开发AI预知模型，能更早、更准锁定 “隐藏宝石”  **[[Link](https://mp.weixin.qq.com/s/sPBpQC3p_MQxsnXF9-ArJw)]**
 
 
-3. [Reddit热议：比欺骗盲审更可怕的，是大家都在发表“高级造假”论文](https://mp.weixin.qq.com/s/qce9D7uQgAf9TgB1QWyxkg). 2021.06.01.
+- `2021.06.01` Reddit热议：比欺骗盲审更可怕的，是大家都在发表“高级造假”论文  **[[Link](https://mp.weixin.qq.com/s/qce9D7uQgAf9TgB1QWyxkg)]**
 
 
-4. [学术会议，已沦为表演...](https://mp.weixin.qq.com/s/aGVvgG4SZhNky5sB_ZXbjA). 2021.10.08.
+- `2021.10.08` 学术会议，已沦为表演...  **[[Link](https://mp.weixin.qq.com/s/aGVvgG4SZhNky5sB_ZXbjA)]**
 
 
-5. [计算机视觉顶尖期刊和会议的段子](https://mp.weixin.qq.com/s/JfsovwifZzSCl-5wa1_1hA). 2022.03.31.
+- `2022.03.31` 计算机视觉顶尖期刊和会议的段子  **[[Link](https://mp.weixin.qq.com/s/JfsovwifZzSCl-5wa1_1hA)]**
 
 
-6. [3000块能买AAAI的Strong Accept？](https://mp.weixin.qq.com/s/Tf7PLghrF-CiYTaFXT41NA) 2022.08.23.
+- `2022.08.23` 3000块能买AAAI的Strong Accept？  **[[Link](https://mp.weixin.qq.com/s/Tf7PLghrF-CiYTaFXT41NA)]**
 
