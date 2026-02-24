@@ -335,46 +335,55 @@
 
 
 ## 如何读论文
-1. [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s/xGC8JGNWvOOV8IT0fMViGg). 2020.08.04. 
+- `2020.08.04` 沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题  **[[Link](https://mp.weixin.qq.com/s/xGC8JGNWvOOV8IT0fMViGg)]** 
 
 
 2. 沈向洋. [沈向洋：读论文的三个层次](https://mp.weixin.qq.com/s/DTPLmmi0W3K5f865Gj1SWg).
 
 
-3. [如何读论文才不至于发疯？](https://mp.weixin.qq.com/s/ERaLDI4bVTbbEmX8aVwrOg)  2019.10.11. 
+- `2019.10.11` 如何读论文才不至于发疯？  **[[Link](https://mp.weixin.qq.com/s/ERaLDI4bVTbbEmX8aVwrOg)]**
 
 
-4. [How to Read a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) | [[如何学会读论文？三轮阅读法]](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/103839697) | [【MIT Sam Hopkins教授】如何读论文？How to Read a Paper](https://mp.weixin.qq.com/s/_CoukV6mD6WI5rAYAEsKbQ). 2022.03.21
+- `` How to Read a Paper  **[[PDF](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)]**
 
 
-5. [一文教你如何快速高效阅读Paper（硕士生版)](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/87871121). 2019.02.25. 
+- `` 如何学会读论文？三轮阅读法  **[[Link](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/103839697)]**
 
 
-6. [如何快速理解一篇 ML 论文的要点？谷歌 Robotics 研究科学家：只要记住5个问题](https://mp.weixin.qq.com/s/_wEjFjNk12loXTuPlp38tQ). 2021.02.17. 
+- `2022.03.21` 【MIT Sam Hopkins教授】如何读论文？How to Read a Paper  **[[Link](https://mp.weixin.qq.com/s/_CoukV6mD6WI5rAYAEsKbQ)]** 
 
 
-7. [为什么有人读文献喜欢打印出来？神经科学研究揭示纸上记录让你的大脑更活跃！](https://mp.weixin.qq.com/s/0-bf1aEyuYmaWRZLd3kTcg) 2021.03.24. 
+- `2019.02.25` 一文教你如何快速高效阅读Paper（硕士生版)  **[[Link](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/87871121)]** 
 
 
-8. [How to research](http://home.ustc.edu.cn/~zzy0929/Home/How%20to%20research.pdf). 2021.04. 
+- `2021.02.17`如何快速理解一篇 ML 论文的要点？谷歌 Robotics 研究科学家：只要记住5个问题  **[[Link](https://mp.weixin.qq.com/s/_wEjFjNk12loXTuPlp38tQ)]** 
 
 
-9. [arXiv时代，应如何看待那些互相矛盾的论文？](https://mp.weixin.qq.com/s/eoH1FMjLC9-3VGZL5smiCw). 2021.07.17 
+- `2021.03.24` 为什么有人读文献喜欢打印出来？神经科学研究揭示纸上记录让你的大脑更活跃！  **[[Link](https://mp.weixin.qq.com/s/0-bf1aEyuYmaWRZLd3kTcg)]** 
 
 
-10. [读论文七步走！CV老司机万字长文：一篇论文需要读4遍](https://mp.weixin.qq.com/s/wk7Hye3YxrgkegwDeUKkww). 2021.12.29 
+- `2021.04` How to research  **[[PDF](http://home.ustc.edu.cn/~zzy0929/Home/How%20to%20research.pdf)]** 
 
 
-11. [全面梳理丨吴恩达给AI领域学生的发展建议](https://mp.weixin.qq.com/s/utTzDUNHabTwxL5yLEF3GA). 2022.01.02 
+- `2021.07.17` arXiv时代，应如何看待那些互相矛盾的论文？  **[[Link](https://mp.weixin.qq.com/s/eoH1FMjLC9-3VGZL5smiCw)]**  
 
 
-12. [CVPR放榜季，算法工程师怎样读论文？](https://mp.weixin.qq.com/s/YsR6gEjk9tgAniM4VBMI_A). 2022.03.12 
+- `2021.12.29` 读论文七步走！CV老司机万字长文：一篇论文需要读4遍  **[[Link](https://mp.weixin.qq.com/s/wk7Hye3YxrgkegwDeUKkww)]**  
 
 
-13. [三位科研牛人介绍的文献阅读经验、点点滴滴](https://mp.weixin.qq.com/s/F_mhExyHoBBkCXjLT6--nA). 2022.04.02 
+- `2022.01.02` 全面梳理丨吴恩达给AI领域学生的发展建议  **[[Link](https://mp.weixin.qq.com/s/utTzDUNHabTwxL5yLEF3GA)]**  
 
 
-14. [如何做好科研？德国图宾根大学Andreas这份《科研阅读、写作与报告》82页PPT，手把手教你实操科研: 读写评讲论文](https://pan.baidu.com/s/1KqblVQc0hyPFFg3JoAPTVw?pwd=ge41). 2022.04.13 | [[Report]](https://mp.weixin.qq.com/s/hX-x0BXSHGVxvb0-7uhdng)
+- `2022.03.12` CVPR放榜季，算法工程师怎样读论文？  **[[Link](https://mp.weixin.qq.com/s/YsR6gEjk9tgAniM4VBMI_A)]**  
+
+
+- `2022.04.02` 三位科研牛人介绍的文献阅读经验、点点滴滴  **[[Link](https://mp.weixin.qq.com/s/F_mhExyHoBBkCXjLT6--nA)]** 
+
+
+- `2022.04.13` 如何做好科研？德国图宾根大学Andreas这份《科研阅读、写作与报告》82页PPT，手把手教你实操科研: 读写评讲论文  **[[Link](https://pan.baidu.com/s/1KqblVQc0hyPFFg3JoAPTVw?pwd=ge41)]**
+
+
+- `` Report  **[[Link](https://mp.weixin.qq.com/s/hX-x0BXSHGVxvb0-7uhdng)]**
 
 
 
@@ -393,13 +402,13 @@
 
 
 ## 如何写论文
-1. [如何写好摘要——毕业论文](https://mp.weixin.qq.com/s/H8-WPDO8voDIIvr99zSKew) 2021.01.14.
+- `2021.01.14` 如何写好摘要——毕业论文  **[[Link](https://mp.weixin.qq.com/s/H8-WPDO8voDIIvr99zSKew)]**
 
 
-2. [如何撰写好你的博士论文？CMU-Priya博士这30页ppt为你指点](http://tjzhifei.github.io/links/How%20To%20Write%20a%20Good%20(no,%20Great)%20PhD%20Dissertation.pdf) 2020.11.26.
+- `2020.11.26` 如何撰写好你的博士论文？CMU-Priya博士这30页ppt为你指点  **[[PDF](http://tjzhifei.github.io/links/How%20To%20Write%20a%20Good%20(no,%20Great)%20PhD%20Dissertation.pdf)]**
 
 
-3. [优化“论文结构”，教你写出一篇高分SCI.](https://www.toutiao.com/i6887440181578695180/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603624108&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20201025190827010147083104170C5670&group_id=6887440181578695180) 2020.10.25.
+- `2020.10.25` 优化“论文结构”，教你写出一篇高分SCI  **[[Link](https://www.toutiao.com/i6887440181578695180/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603624108&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20201025190827010147083104170C5670&group_id=6887440181578695180)]**
 
 
 4. [保持高效论文写作的10个原则！](https://mp.weixin.qq.com/s/qYu3obNgDlG3dkNcZpjShA) 2020.10.09.
@@ -562,7 +571,7 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 56. [我是如何从头开始写一篇顶级论文的](https://mp.weixin.qq.com/s/X-3qmuFPNA2YTVvMRUGVdA). 2022.09.02.
 
 
-57. [看懂这25个核心概念，就没有啃不动的机器学习论文](https://mp.weixin.qq.com/s/MGV7vpS0ZSQW0XpM5E0wxA). 2023.01.16.
+- `2023.01.16` 看懂这25个核心概念，就没有啃不动的机器学习论文  **[[Link](https://mp.weixin.qq.com/s/MGV7vpS0ZSQW0XpM5E0wxA)]**
 
 
 
