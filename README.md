@@ -241,93 +241,96 @@
 - `2022.02.23` 如何搞砸你的学术研究之路？图灵奖伯克利教授David Patterson经典报告让你避坑，附视频与报告  **[[Link](https://mp.weixin.qq.com/s/KDss_ap1ar8bnrtqDBMVvw)]** **[[PDF](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)]** **[[Video](https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGtHmjn3IFwsEyDO9cWZzW1dw7GuUNgM9bvDBe1iadqDiab4slj4fBdiaSPpAvMiaH9YUzeEqKUOjanzWGsWfpltxTSbRAvlribfrl7IXHQ43WaEsg&token=AxricY7RBHdVyd75w0drSTtjz9f25y2SibyQNBTIxiasg6eIX4nKdr65dspfn0ydtfrwMEUv8ibgjhw&idx=1&adaptivelytrans=943&bizid=1023&dotrans=2991&hy=SH&m=824da4ab1becdf974b789b979d37310d&scene=0&t=1)]**
 
 
-35. [钱颖一：从清华学生身上，我发现了这7个普遍现象……](https://mp.weixin.qq.com/s/CV0VPJwb4QW7sGFJglKisA). 2022.02.22
+- `2022.02.22` 钱颖一：从清华学生身上，我发现了这7个普遍现象……  **[[Link](https://mp.weixin.qq.com/s/CV0VPJwb4QW7sGFJglKisA)]** 
 
 
-36. [吴恩达知乎问答：如何系统学习机器学习？](https://mp.weixin.qq.com/s/Gx05WDzIaGkBNlptD7KIyg) 2022.04.10
+- `2022.04.10` 吴恩达知乎问答：如何系统学习机器学习？  **[[Link](https://mp.weixin.qq.com/s/Gx05WDzIaGkBNlptD7KIyg)]** 
 
 
-37. [读博期间应该明确的50件事！](https://mp.weixin.qq.com/s/U8O-MgZ3K9pqLpcXWDwsXw) 2022.05.02
+- `2022.05.02` 读博期间应该明确的50件事！  **[[Link](https://mp.weixin.qq.com/s/U8O-MgZ3K9pqLpcXWDwsXw)]** 
 
 
-38. [Nature专栏：博士生合理管理时间，走出泥潭](https://mp.weixin.qq.com/s/8s8_ARM4Cm4Hnvo-f2Ttnw). 2022.04.06
+- `2022.04.06` Nature专栏：博士生合理管理时间，走出泥潭  **[[Link](https://mp.weixin.qq.com/s/8s8_ARM4Cm4Hnvo-f2Ttnw)]**
 
 
 
 ## 好的研究想法如何产生
-1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
+- `` 我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！  **[[Link](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)]**
 
 
 2. [清华黄民烈：本科生如何做出好的科研](./report/undergrad-res.pdf).
 
 
-3. [清华刘知远： 好的研究想法从哪里来](https://mp.weixin.qq.com/s/88mrVSz1JA0FB2-5toWCSg).
+- `` 清华刘知远： 好的研究想法从哪里来  **[[Link](https://mp.weixin.qq.com/s/88mrVSz1JA0FB2-5toWCSg)]**
 
 
-4. [How to do Research](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf). [[2万字超长干货论文，MIT人工智能实验室：如何做研究？]](https://www.wxnmh.com/thread-5926286.htm)
+- `` How to do Research  **[[PDF](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf)]**
 
 
-5. [周志华：如何做研究，如何写论文](./report/如何做研究-如何写论文.pdf). 
+- `` 2万字超长干货论文，MIT人工智能实验室：如何做研究？  **[[Link](https://www.wxnmh.com/thread-5926286.htm)]**
 
 
-6. [An Introduction to your Research Journey at Otago](./tutorials/An_Introduction_to_your_Research_Journey_at_Otago.pdf).
+6. [周志华：如何做研究，如何写论文](./report/如何做研究-如何写论文.pdf). 
 
 
-7. [信息图汇总： 挖掘优秀研究问题的6种方法、科研论文要素、如何阅读期刊文章](https://mp.weixin.qq.com/s/JlFnO9N92oQs2PqUE2WVfQ). 2019.08.19. 
+7. [An Introduction to your Research Journey at Otago](./tutorials/An_Introduction_to_your_Research_Journey_at_Otago.pdf).
 
 
-8. [施一公：如何一个通宵写出「Nature」文章](https://www.sohu.com/a/240043800_773043). 2019.07.08.
+- `2019.08.19` 信息图汇总： 挖掘优秀研究问题的6种方法、科研论文要素、如何阅读期刊文章  **[[Link](https://mp.weixin.qq.com/s/JlFnO9N92oQs2PqUE2WVfQ)]**  
 
 
-9. [原来搞科研的都是段子手，哈哈哈哈哈哈哈…](https://mp.weixin.qq.com/s/502_dP6StAaPki770-BYSA). 2021.02.12.
+- `2019.07.08` 施一公：如何一个通宵写出「Nature」文章  **[[Link](https://www.sohu.com/a/240043800_773043)]**
 
 
-10. [做科研不顺？研毕？导师解密研究生时间管理](https://mp.weixin.qq.com/s/Ro6G_pSK1LBby7dIvydq5Q). 2021.03.19.
+- `2021.02.12` 原来搞科研的都是段子手，哈哈哈哈哈哈哈…  **[[Link](https://mp.weixin.qq.com/s/502_dP6StAaPki770-BYSA)]**
 
 
-11. [How to Look for Ideas in Computer Science Research](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f). 2021.01.04.
+- `2021.03.19` 做科研不顺？研毕？导师解密研究生时间管理  **[[Link](https://mp.weixin.qq.com/s/Ro6G_pSK1LBby7dIvydq5Q)]**
 
 
-12. [如何做出牛的研究？GAT作者DeepMind研究科学家​Petar谈论自己读博科研经验，为您指点一二](https://mp.weixin.qq.com/s/XqpYda2hX_TCPfuTPk2vdg). 2021.04.27.
+- `2021.01.04` How to Look for Ideas in Computer Science Research  **[[Link](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f)]**
 
 
-13. [第一：做学位论文期间，不要有任何度假休息的打算；第二，导师错的时候不多；第三……](https://mp.weixin.qq.com/s/LbenjoZyKOqitmKbkeflSg) 2021.05.18. 
+- `2021.04.27` 如何做出牛的研究？GAT作者DeepMind研究科学家​Petar谈论自己读博科研经验，为您指点一二  **[[Link](https://mp.weixin.qq.com/s/XqpYda2hX_TCPfuTPk2vdg)]**
 
 
-14. [四位博士分享学位论文选题心得：让后来人少掉坑](https://mp.weixin.qq.com/s/H2ZOatGZiZ5slh94RZwFsQ) 2021.06.08. 
+- `2021.05.18` 第一：做学位论文期间，不要有任何度假休息的打算；第二，导师错的时候不多；第三……  **[[Link](https://mp.weixin.qq.com/s/LbenjoZyKOqitmKbkeflSg)]** 
 
 
-15. [读博时的我急于求成陷入焦虑，导师告诫我“科研就是游戏人生”](https://mp.weixin.qq.com/s/eULBoPhjA0Tllg1EGZj3tg) 2021.06.24. 
+- `2021.06.08` 四位博士分享学位论文选题心得：让后来人少掉坑  **[[Link](https://mp.weixin.qq.com/s/H2ZOatGZiZ5slh94RZwFsQ)]**
 
 
-16. [为了一个科研idea，博士生们连冥想、巫毒仪式都用上了｜Reddit热议](https://mp.weixin.qq.com/s/mku8fyxcctKYeu-Xo8tPCQ). 2021.07.12. 
+- `2021.06.24` 读博时的我急于求成陷入焦虑，导师告诫我“科研就是游戏人生”  **[[Link](https://mp.weixin.qq.com/s/eULBoPhjA0Tllg1EGZj3tg)]** 
 
 
-17. [H.T. Kung 关于研究的有用建议](https://mp.weixin.qq.com/s/wVTmQB48bAAyr7z1ynLkhA). 2021.08.16. 
+- `2021.07.12` 为了一个科研idea，博士生们连冥想、巫毒仪式都用上了｜Reddit热议  **[[Link](https://mp.weixin.qq.com/s/mku8fyxcctKYeu-Xo8tPCQ)]** 
 
 
-18. [透彻！博士生成长需要经历的7道门](https://mp.weixin.qq.com/s/DtfPxpsn5vToeWkKaNTFXQ). 2021.09.04. 
+- `2021.08.16` H.T. Kung 关于研究的有用建议  **[[Link](https://mp.weixin.qq.com/s/wVTmQB48bAAyr7z1ynLkhA)]** 
 
 
-19. [对自己深度学习方向的论文有idea，可是工程实践能力跟不上，实验搞不定怎么办？](https://mp.weixin.qq.com/s/uVsLaurnhWxU_rRXQTMBRw) 2021.09.05. 
+- `2021.09.04` 透彻！博士生成长需要经历的7道门  **[[Link](https://mp.weixin.qq.com/s/DtfPxpsn5vToeWkKaNTFXQ)]**
 
 
-20. [刘铁岩：科研到底怎么做？什么是高质量研究？](https://mp.weixin.qq.com/s/Gj8z_u8xmQZckiVdktES7w) 2021.09.08.
+- `2021.09.05` 对自己深度学习方向的论文有idea，可是工程实践能力跟不上，实验搞不定怎么办？  **[[Link](https://mp.weixin.qq.com/s/uVsLaurnhWxU_rRXQTMBRw)]**
 
 
-21. [对话 DenseNet 一作黄高：做有韧劲、能抗压、不断探索未知的科研](https://mp.weixin.qq.com/s/69S7613m7zVQQrsGU5IfFA). 2021.09.23.
+- `2021.09.08` 刘铁岩：科研到底怎么做？什么是高质量研究？  **[[Link](https://mp.weixin.qq.com/s/Gj8z_u8xmQZckiVdktES7w)]**
 
 
-22. [做失败科研的10个方法](http://www.cips-cl.org/static/CCL2019/downloads/stuPPT/02.pdf). 2021.10.14. [[Report]](https://mp.weixin.qq.com/s/1ulj5xVDdQKZ-Jku0pT5_A)
+- `2021.09.23` 对话 DenseNet 一作黄高：做有韧劲、能抗压、不断探索未知的科研  **[[Link](https://mp.weixin.qq.com/s/69S7613m7zVQQrsGU5IfFA)]**
 
 
-23. [刘铁岩：科研到底怎么做？什么是高质量研究？](https://mp.weixin.qq.com/s/mOo6N1QWp4eRRhTuLh1K_Q). 2021.10.31.
+- `2021.10.14` 做失败科研的10个方法  **[[PDF](http://www.cips-cl.org/static/CCL2019/downloads/stuPPT/02.pdf)]** **[[Report](https://mp.weixin.qq.com/s/1ulj5xVDdQKZ-Jku0pT5_A)]**
 
 
-24. [46岁院士，用自身科研经历给研究生提了6个建议！](https://mp.weixin.qq.com/s/XaPEuDBFHf1iDE3fk1MZRA) 2022.05.22.
+- `2021.10.31` 刘铁岩：科研到底怎么做？什么是高质量研究？  **[[Link](https://mp.weixin.qq.com/s/mOo6N1QWp4eRRhTuLh1K_Q)]**
 
 
-25. [CCCF精选 | 陈文光：做有用、有想象力的科研](CCCF精选 | 陈文光：做有用、有想象力的科研 ) 2023.02.24.
+- `2022.05.22` 46岁院士，用自身科研经历给研究生提了6个建议！  **[[Link](https://mp.weixin.qq.com/s/XaPEuDBFHf1iDE3fk1MZRA)]**
+
+
+26. [CCCF精选 | 陈文光：做有用、有想象力的科研](CCCF精选 | 陈文光：做有用、有想象力的科研 ) 2023.02.24.
 
 
 
@@ -376,16 +379,16 @@
 
 
 ## 如何做实验
-1. [7步！顶会Paper 复现方法！](https://mp.weixin.qq.com/s/bE4F7uqNP5toQFvS7G6Axw). 2021.07.13 
+- `2021.07.13` 7步！顶会Paper 复现方法！  **[[Link](https://mp.weixin.qq.com/s/bE4F7uqNP5toQFvS7G6Axw)]** 
 
 
-2. [深度学习博士发出灵魂拷问：我是在做算法还是在调参？](https://mp.weixin.qq.com/s/Jv9tZhtfaN53Ur-9jupWXw) 2021.07.23 
+- `2021.07.23` 深度学习博士发出灵魂拷问：我是在做算法还是在调参？  **[[Link](https://mp.weixin.qq.com/s/Jv9tZhtfaN53Ur-9jupWXw)]**  
 
 
-3. [佐治亚理工学院硕士建议：2022年你应该掌握这些机器学习算法](https://mp.weixin.qq.com/s/bsSNVNa71LQynsfsEydBow). 2021.12.11
+- `2021.12.11` 佐治亚理工学院硕士建议：2022年你应该掌握这些机器学习算法  **[[Link](https://mp.weixin.qq.com/s/bsSNVNa71LQynsfsEydBow)]** 
 
 
-4. [论文复现不出来？Maria小姐姐这份《论文复现指南：要求、挑战与技巧》33页ppt帮你指点如何高效复现论文](https://drive.google.com/file/d/10kOi-h8B3Xzp_7KbwxYqkDM7Rp9oBcNm/view). 2021.12.11. [[Report]](https://mp.weixin.qq.com/s/pjlBiktwwns_YPR7YBx3kg)
+- `2021.12.11` 论文复现不出来？Maria小姐姐这份《论文复现指南：要求、挑战与技巧》33页ppt帮你指点如何高效复现论文  **[[Link](https://drive.google.com/file/d/10kOi-h8B3Xzp_7KbwxYqkDM7Rp9oBcNm/view)]** **[[Report](https://mp.weixin.qq.com/s/pjlBiktwwns_YPR7YBx3kg)]**
 
 
 
@@ -564,37 +567,37 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 
 ## ArXiv
-1. [上传arXiv如何选择期刊允许的license](https://mp.weixin.qq.com/s/cK_AZklHlivvgUjM76JLaw). 2021.09.23.
+- `2021.09.23` 上传arXiv如何选择期刊允许的license  **[[Link](https://mp.weixin.qq.com/s/cK_AZklHlivvgUjM76JLaw)]**
 
 
 
 ## 如何投论文
-1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
+- `2020.10.30` 投稿过程中三两遭遇后的一些思考！  **[[Link](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g)]
 
 
-2. [国内唯一ACL最佳论文得主冯洋：冲击最佳论文需要知道的事情](https://mp.weixin.qq.com/s/xQTsJJrRx7RGSIPOge-gFA). 2020.10.26.
+- `2020.10.26` 国内唯一ACL最佳论文得主冯洋：冲击最佳论文需要知道的事情  **[[Link](https://mp.weixin.qq.com/s/xQTsJJrRx7RGSIPOge-gFA)]**
 
 
-3. [有的论文，没做好、没改好，就不要急着投稿了！否则，认为你是在学术投机……](https://mp.weixin.qq.com/s/Iyw7noJQZGsTte7zxpxEHQ). 2021.01.22.
+- `2021.01.22`有的论文，没做好、没改好，就不要急着投稿了！否则，认为你是在学术投机……  **[[Link](https://mp.weixin.qq.com/s/Iyw7noJQZGsTte7zxpxEHQ)]**
 
 
-4. [无心插柳 | 聊聊我的 ACL2020 论文](https://mp.weixin.qq.com/s/54TICyYYL76LGuke8Cwnzw). 2021.03.11.
+- `2021.03.11` 无心插柳 | 聊聊我的 ACL2020 论文  **[[Link](https://mp.weixin.qq.com/s/54TICyYYL76LGuke8Cwnzw)]**
 
 
-5. [投稿前先给期刊编辑发个邮件，说不定文章接收得更快哦](https://www.toutiao.com/i6980175614674223629/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1625374499&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202107041254590101512171045E0446EF&share_token=a5a63611-a3b2-4712-9589-74c13e3a13fd&group_id=6980175614674223629&wid=1625399365379). 2021.07.02.
+- `2021.07.02` 投稿前先给期刊编辑发个邮件，说不定文章接收得更快哦  **[[Link](https://www.toutiao.com/i6980175614674223629/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1625374499&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202107041254590101512171045E0446EF&share_token=a5a63611-a3b2-4712-9589-74c13e3a13fd&group_id=6980175614674223629&wid=1625399365379)]**
 
 
-6. [计算机顶会论文投稿指南](https://mp.weixin.qq.com/s/ro74V_IzOmhLvE2yDYYlPw). 2021.07.06.
+- `2021.07.06` 计算机顶会论文投稿指南  **[[Link](https://mp.weixin.qq.com/s/ro74V_IzOmhLvE2yDYYlPw)]**
 
 
-7. [UESTCer研习社 | 《SCI投稿不完全指北》](https://mp.weixin.qq.com/s/VNhMJe5TihvIa8oOFwRRiw). 2021.07.15.
+- `2021.07.15` UESTCer研习社 | 《SCI投稿不完全指北》  **[[Link](https://mp.weixin.qq.com/s/VNhMJe5TihvIa8oOFwRRiw)]**
 
 
-8. [必看 | 投稿时推荐的审稿人编辑会采用吗？该如何正确推荐审稿人？
-浙大学报英文版](https://mp.weixin.qq.com/s/NGSpamqc3P2S0HNEVl1FEQ). 2021.09.15.
+- `2021.09.15` 必看 | 投稿时推荐的审稿人编辑会采用吗？该如何正确推荐审稿人？
+浙大学报英文版  **[[Link](https://mp.weixin.qq.com/s/NGSpamqc3P2S0HNEVl1FEQ)]**
 
 
-9. [2022 AAAI 投稿体会](https://mp.weixin.qq.com/s/MGeSFjExXOq_oDSpDk6fEA). 2021.11.19.
+- `2021.11.19` 2022 AAAI 投稿体会  **[[Link](https://mp.weixin.qq.com/s/MGeSFjExXOq_oDSpDk6fEA)]**
 
 
 
@@ -653,7 +656,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 
 - `2021.05.27` 如何做好一场报告？斯坦福Kayvon教授《清晰报告指南》为您讲解  **[[PDF](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf)]**
-- `` **[[Report](https://mp.weixin.qq.com/s/UEp8zhCpsrQFEQ51tQ8wKg)]** 
+
+
+- `2021.05.27` **[[如何做好一场报告？斯坦福Kayvon教授《清晰报告指南》为您讲解，附69页ppt](https://mp.weixin.qq.com/s/UEp8zhCpsrQFEQ51tQ8wKg)]** 
 
 
 
