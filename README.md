@@ -55,7 +55,7 @@
 - `2021.05.02` 【科研经验】刚读博士想退学？如何避免博士毕业不了？  **[[Link](https://mp.weixin.qq.com/s/xLCuWxjx_UhcrgbDobkrZw)]** 
 
 
-- `2021.05.17` 【学术相关】直博和读完硕士再读博，在能力上的差距有多大？  **[[Link](https://mp.weixin.qq.com/s/LdW9_OewUJMBDyeFGoQbEw)]** 
+- `2021.05.16` 【学术相关】直博和读完硕士再读博，在能力上的差距有多大？  **[[Link](https://mp.weixin.qq.com/s/LdW9_OewUJMBDyeFGoQbEw)]** 
 
 
 - `2021.06.12` 读博士需要什么品质和能力？到底什么样的人适合读博士？  **[[Link](https://mp.weixin.qq.com/s/1WCNR0LSNbscVzCSV5DWrA)]** 
@@ -70,13 +70,16 @@
 - `2021.06.24` 目睹太多读博惨案之后，清华姚班助理教授写了个读博决策树  **[[Link](https://mp.weixin.qq.com/s/WXh1-V7nGORW3aFEz42axQ)]** 
 
 
-24. [35岁那年，没有躺平，做了最重要的决定：读博士！](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ) 2021.06.30. | [十年树木](https://mp.weixin.qq.com/s/MWwNBIBmev0DNIBZBX-Qsg) 2021.08.24. 
+- '2021.06.30' 35岁那年，没有躺平，做了最重要的决定：读博士！  ＊＊[[Link](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ)
+
+
+-  [十年树木](https://mp.weixin.qq.com/s/MWwNBIBmev0DNIBZBX-Qsg) 2021.08.24. 
 
 
 - `2021.06.30` 读博是一场肖申克的救赎？那些我读博之后才明白的道理！  **[[Link](https://mp.weixin.qq.com/s/nc0UEp0UAGyJi3Pqfra15w)]** 
 
 
-- `` 想好入坑读博？CMU- Balter教授这份申请计算机博士指南，帮你想清楚](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) 2014. [Report](https://mp.weixin.qq.com/s/Ec66Pf3D5_hN1mPW8fA01g)
+- `2014` 想好入坑读博？CMU- Balter教授这份申请计算机博士指南，帮你想清楚＊＊[[Link](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) ]＊＊ ＊＊[[Report](https://mp.weixin.qq.com/s/Ec66Pf3D5_hN1mPW8fA01g)]＊＊
 
 
 - `2021.08.14` 博士延期的我，女友已经是副教授了  **[[Link](https://mp.weixin.qq.com/s/3VLEw3ZJMv-HIqiR8fwKEA)]**
