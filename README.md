@@ -379,10 +379,7 @@
 - `2022.04.02` 三位科研牛人介绍的文献阅读经验、点点滴滴  **[[Link](https://mp.weixin.qq.com/s/F_mhExyHoBBkCXjLT6--nA)]** 
 
 
-- `2022.04.13` 如何做好科研？德国图宾根大学Andreas这份《科研阅读、写作与报告》82页PPT，手把手教你实操科研: 读写评讲论文  **[[Link](https://pan.baidu.com/s/1KqblVQc0hyPFFg3JoAPTVw?pwd=ge41)]**
-
-
-- `` Report  **[[Link](https://mp.weixin.qq.com/s/hX-x0BXSHGVxvb0-7uhdng)]**
+- `2022.04.13` 如何做好科研？德国图宾根大学Andreas这份《科研阅读、写作与报告》82页PPT，手把手教你实操科研: 读写评讲论文  **[[PDF](https://pan.baidu.com/s/1KqblVQc0hyPFFg3JoAPTVw?pwd=ge41)]** **[[Link](https://mp.weixin.qq.com/s/hX-x0BXSHGVxvb0-7uhdng)]**
 
 
 
@@ -396,7 +393,7 @@
 - `2021.12.11` 佐治亚理工学院硕士建议：2022年你应该掌握这些机器学习算法  **[[Link](https://mp.weixin.qq.com/s/bsSNVNa71LQynsfsEydBow)]** 
 
 
-- `2021.12.11` 论文复现不出来？Maria小姐姐这份《论文复现指南：要求、挑战与技巧》33页ppt帮你指点如何高效复现论文  **[[Link](https://drive.google.com/file/d/10kOi-h8B3Xzp_7KbwxYqkDM7Rp9oBcNm/view)]** **[[Report](https://mp.weixin.qq.com/s/pjlBiktwwns_YPR7YBx3kg)]**
+- `2022.01.28` 论文复现不出来？Maria小姐姐这份《论文复现指南：要求、挑战与技巧》33页ppt帮你指点如何高效复现论文  **[[PDF](https://drive.google.com/file/d/10kOi-h8B3Xzp_7KbwxYqkDM7Rp9oBcNm/view)]** **[[Link](https://mp.weixin.qq.com/s/pjlBiktwwns_YPR7YBx3kg)]**
 
 
 
@@ -407,13 +404,13 @@
 - `2020.11.26` 如何撰写好你的博士论文？CMU-Priya博士这30页ppt为你指点  **[[PDF](http://tjzhifei.github.io/links/How%20To%20Write%20a%20Good%20(no,%20Great)%20PhD%20Dissertation.pdf)]**
 
 
-- `2020.10.25` 优化“论文结构”，教你写出一篇高分SCI  **[[Link](https://www.toutiao.com/i6887440181578695180/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603624108&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20201025190827010147083104170C5670&group_id=6887440181578695180)]**
+- `` 优化“论文结构”，教你写出一篇高分SCI  **[[Link](https://www.toutiao.com/i6887440181578695180/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603624108&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20201025190827010147083104170C5670&group_id=6887440181578695180)]**
 
 
 - `2020.10.09` 保持高效论文写作的10个原则！  **[[Link](https://mp.weixin.qq.com/s/qYu3obNgDlG3dkNcZpjShA)]** 
 
 
-- `2020.10.05` 文献综述怎么写？这篇文章说的透彻！  **[[Link](https://mp.weixin.qq.com/s/ZWD1uBZHVY2pVXexR5yn_g)]**
+- `2020.10.06` 文献综述怎么写？这篇文章说的透彻！  **[[Link](https://mp.weixin.qq.com/s/ZWD1uBZHVY2pVXexR5yn_g)]**
 
 
 - `2020.09.18` 最担心的事情还是发生了？SCI论文被拒稿的所有问题都在这里  **[[Link](https://www.toutiao.com/i6873611828962951694/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1600429810&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009181950090101441200672A04409B&group_id=6873611828962951694)]**
