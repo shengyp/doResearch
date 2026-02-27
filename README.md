@@ -91,13 +91,11 @@
 - `2021.10.20` 美国顶尖大学的博士是怎样练成的？  **[[Link](https://mp.weixin.qq.com/s/75e546cOzdFYeQPnFsZ7hw)]**
 
 
-- `2022.03.19` 美“每周的运动必不可少” 有哪些东西是你读博士以后才懂的？  **[[Link](https://mp.weixin.qq.com/s/erlCqwtTRUwUstGMprMT5g)]**  
+- `2022.03.19` “每周的运动必不可少” 有哪些东西是你读博士以后才懂的？  **[[Link](https://mp.weixin.qq.com/s/erlCqwtTRUwUstGMprMT5g)]**  
 
 
-- `2022.04.11` 博士入坑必读教材-《A-Z博士（PhD）顺利毕业必读指南》新书免费分享  **[[PDF](./book/The_A-Z_of_the_Phd_Trajectory.pdf)]**
-
-
-- `` [Report]  **[[Link](https://mp.weixin.qq.com/s/siwSoapCfI20Sa7i-faiwQ)]**
+- `` 博士入坑必读教材-《A-Z博士（PhD）顺利毕业必读指南》新书免费分享  **[[PDF](./book/The_A-Z_of_the_Phd_Trajectory.pdf)]**
+ **[[Link](https://mp.weixin.qq.com/s/siwSoapCfI20Sa7i-faiwQ)]**
 
 
 - `2022.05.03` 犹豫是否读个博士？这里综合前途、家庭、爱好帮你分析下~  **[[Link](https://mp.weixin.qq.com/s/_wlKYSkESHkLWeueU13Ayw)]** 
@@ -106,7 +104,7 @@
 - `2022.05.18` 读博士可能后悔四年，不读博士可能后悔一辈子  **[[Link](https://mp.weixin.qq.com/s/9hNl7FPEKBhPM4x0XdkzBQ)]** 
 
 
-- `2022.04.14` 博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞  **[[Link](https://www.toutiao.com/article/7086361789520429601/?app=news_article&timestamp=1654753462&use_new_style=1&req_id=20220609134421010158167134233BB555&group_id=7086361789520429601&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=f584f801-7885-4728-b736-38a881564891&source=m_redirect&wid=1654830597122)]**
+- `` 博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞  **[[Link](https://www.toutiao.com/article/7086361789520429601/?app=news_article&timestamp=1654753462&use_new_style=1&req_id=20220609134421010158167134233BB555&group_id=7086361789520429601&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=f584f801-7885-4728-b736-38a881564891&source=m_redirect&wid=1654830597122)]**
 
 
 - `2022.07.19` 行业现状令人失望，工作之后我又回到UC伯克利读博了  **[[Link](https://mp.weixin.qq.com/s/KW2hFdvitKYtmIiKmwANAw)]** 
