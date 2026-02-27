@@ -70,16 +70,16 @@
 - `2021.06.24` 目睹太多读博惨案之后，清华姚班助理教授写了个读博决策树  **[[Link](https://mp.weixin.qq.com/s/WXh1-V7nGORW3aFEz42axQ)]** 
 
 
-- '2021.06.30' 35岁那年，没有躺平，做了最重要的决定：读博士！  ＊＊[[Link](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ)
+- '2021.06.30' 35岁那年，没有躺平，做了最重要的决定：读博士！  **[[Link](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ)]**
 
 
--  [十年树木](https://mp.weixin.qq.com/s/MWwNBIBmev0DNIBZBX-Qsg) 2021.08.24. 
+- `2021.08.24` **[[十年树木](https://mp.weixin.qq.com/s/MWwNBIBmev0DNIBZBX-Qsg)]**
 
 
 - `2021.06.30` 读博是一场肖申克的救赎？那些我读博之后才明白的道理！  **[[Link](https://mp.weixin.qq.com/s/nc0UEp0UAGyJi3Pqfra15w)]** 
 
 
-- `2014` 想好入坑读博？CMU- Balter教授这份申请计算机博士指南，帮你想清楚＊＊[[Link](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) ]＊＊ ＊＊[[Report](https://mp.weixin.qq.com/s/Ec66Pf3D5_hN1mPW8fA01g)]＊＊
+- `2014` 想好入坑读博？CMU- Balter教授这份申请计算机博士指南，帮你想清楚  **[[Link](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)]** **[[Report](https://mp.weixin.qq.com/s/Ec66Pf3D5_hN1mPW8fA01g)]**
 
 
 - `2021.08.14` 博士延期的我，女友已经是副教授了  **[[Link](https://mp.weixin.qq.com/s/3VLEw3ZJMv-HIqiR8fwKEA)]**
@@ -152,16 +152,16 @@
 - `2020.09.13` 读博，每天要不要工作十二小时  **[[Link](https://mp.weixin.qq.com/s/Rsf_iA_bqGBj6y9EA1PucQ)]**
 
 
-- `2020.09.11` 张启发院士给自己博士生写的一封信  **[[Link](https://mp.weixin.qq.com/s/xLrzJvcupQeCVrVj5_-02w)]**
+- `2020.09.11` 张启发院士给自己博士生写的一封信博士生每天工作12小时只是一个下限  **[[Link](https://mp.weixin.qq.com/s/xLrzJvcupQeCVrVj5_-02w)]**
 
 
-- `2020.09.08` 郝清杰｜博士生培养的跨界反思  **[[Link](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ)]**
+- `` 郝清杰｜博士生培养的跨界反思  **[[Link](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ)]**
 
 
-- `` 21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来  **[[Link](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw)]**
+- `2020.09.06` 21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来  **[[Link](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw)]**
 
 
-- `` 博士生的成功秘诀何在？学者：主要看老板！  **[[Link](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ)]**
+- `2020.09.04` 博士生的成功秘诀何在？学者：主要看老板！  **[[Link](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ)]**
 
 
 - `2020.08.31` 一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等  **[[Link](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ)]**
@@ -179,31 +179,31 @@
 - `2020.07.06` 科研新手入门初探  **[[Link](https://mp.weixin.qq.com/s/BnKESACUwSOOff2y4tWVCw)]** 
 
 
-- `2020.05.02` [ICLR 2020] Tips for prospective and early-stage PhD students (如何读一个成功的机器学习博士)  **[[Link](./report/Tips_for_prospective_and_early-stage_PhD_students.pdf)]**  
+- `` [ICLR 2020] Tips for prospective and early-stage PhD students (如何读一个成功的机器学习博士)  **[[Link](./report/Tips_for_prospective_and_early-stage_PhD_students.pdf)]**  
 
 
-- `` Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD]  **[[Link](https://www.nature.com/articles/d41586-018-07332-x)]**\
+- `2018.11.06` Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD]  **[[Link](https://www.nature.com/articles/d41586-018-07332-x)]**
 
 
-- `` 这20件事，我真希望我读博前就知道  **[[Link](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g)]** 
+- `2018.12.15` 这20件事，我真希望我读博前就知道  **[[Link](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g)]** 
 
 
 - `` Doing the PhD  **[[Link](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444)]**
 
 
-- `` 如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期  **[[Link](https://mp.weixin.qq.com/s/KslzBsIINqhmCLR9xgcH2g)]** 
+- `2020.06.04` 如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期  **[[Link](https://mp.weixin.qq.com/s/KslzBsIINqhmCLR9xgcH2g)]** 
 
 
 - `2020.07.01` Making a Positive Start to Your PhD or Professional Doctorate (为读博入坑开个好头)  **[[PDF](https://3b019afd-1feb-4a2f-85e6-8dceac7c66ea.filesusr.com/ugd/489d73_620fda29be1542549ad753cbc8df8ebe.pdf)]**
 
 
-- `2017.12.14` Advice to PhD students (读博士有风险？这43条建议为你指向希望的彼岸)  **[[PDF](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf)]**
+- `2017.12.14` Advice to PhD students: Notes for a talk given at the National Research Scholars Meet (读博士有风险？这43条建议为你指向希望的彼岸)  **[[PDF](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf)]**
 
 
-- `2014.12` Ten Simple Rules for Finishing your PhD  **[[Link](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable)]**
+- `2014.12` Ten Simple Rules for Finishing your PhD  **[[PDF](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable)]**
 
 
-- `` 这十条简单法则帮助你博士顺利毕业 (附全文)  **[[Link](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3)]** 
+- `2018.12.25` 这十条简单法则帮助你博士顺利毕业 (附全文下载)  **[[Link](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3)]** 
 
 
 - `2021.02.16` 博士生“生存法则”17条！  **[[Link](https://mp.weixin.qq.com/s/SddErcqWERnJ7jxmFH9E4g)]** 
@@ -230,7 +230,7 @@
 - `2021.11.07` 如何做好科研？10篇顶会paper，入选微软学者，上海交大吴齐天的科研思考！  **[[Link](https://mp.weixin.qq.com/s/Qd1WZLiLhZF85y_dpfvIqA)]** 
 
 
-- `2021.11` 姚期智演讲实录：做研究最好的方法是提出深刻、大胆和关键性的问题  **[[PDF](./report/姚期智演讲实录：做研究最好的方法是提出深刻、大胆和关键性的问题.pdf)]**
+- `2021.11.11` 姚期智：做研究最好的方法是提出深刻、大胆和关键性的问题  **[[PDF](https://news.sina.com.cn/o/2021-11-11/doc-iktzqtyu6760540.shtml)]**
 
 
 - `2022.02.05`【学术人生】读博五年！我总结出了7条帮你「少走弯路」的真理！  **[[Link](https://mp.weixin.qq.com/s/mkoHnfJQkhiseDX-7oRS5Q)]** 
@@ -239,7 +239,8 @@
 - `2022.02.20` 机器学习博士在获得学位之前需要掌握的九种工具！  **[[Link](https://mp.weixin.qq.com/s/xVZuUWWUuRRsGcGxnkDy_g)]** 
 
 
-- `2022.02.23` 如何搞砸你的学术研究之路？图灵奖伯克利教授David Patterson经典报告让你避坑，附视频与报告  **[[Link](https://mp.weixin.qq.com/s/KDss_ap1ar8bnrtqDBMVvw)]** **[[PDF](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)]** **[[Video](https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGtHmjn3IFwsEyDO9cWZzW1dw7GuUNgM9bvDBe1iadqDiab4slj4fBdiaSPpAvMiaH9YUzeEqKUOjanzWGsWfpltxTSbRAvlribfrl7IXHQ43WaEsg&token=AxricY7RBHdVyd75w0drSTtjz9f25y2SibyQNBTIxiasg6eIX4nKdr65dspfn0ydtfrwMEUv8ibgjhw&idx=1&adaptivelytrans=943&bizid=1023&dotrans=2991&hy=SH&m=824da4ab1becdf974b789b979d37310d&scene=0&t=1)]**
+- `2022.02.23` 如何搞砸你的学术研究之路？图灵奖伯克利教授David Patterson经典报告让你避坑，附视频与报告  **[[Link](https://mp.weixin.qq.com/s/KDss_ap1ar8bnrtqDBMVvw)]** **[[PDF](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)]**
+- `` **[[Video](https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGtHmjn3IFwsEyDO9cWZzW1dw7GuUNgM9bvDBe1iadqDiab4slj4fBdiaSPpAvMiaH9YUzeEqKUOjanzWGsWfpltxTSbRAvlribfrl7IXHQ43WaEsg&token=AxricY7RBHdVyd75w0drSTtjz9f25y2SibyQNBTIxiasg6eIX4nKdr65dspfn0ydtfrwMEUv8ibgjhw&idx=1&adaptivelytrans=943&bizid=1023&dotrans=2991&hy=SH&m=824da4ab1becdf974b789b979d37310d&scene=0&t=1)]**
 
 
 - `2022.02.22` 钱颖一：从清华学生身上，我发现了这7个普遍现象……  **[[Link](https://mp.weixin.qq.com/s/CV0VPJwb4QW7sGFJglKisA)]** 
@@ -251,15 +252,15 @@
 - `2022.05.02` 读博期间应该明确的50件事！  **[[Link](https://mp.weixin.qq.com/s/U8O-MgZ3K9pqLpcXWDwsXw)]** 
 
 
-- `2022.04.06` Nature专栏：博士生合理管理时间，走出泥潭  **[[Link](https://mp.weixin.qq.com/s/8s8_ARM4Cm4Hnvo-f2Ttnw)]**
+- `2023.04.06` Nature专栏：博士生合理管理时间，走出泥潭  **[[Link](https://mp.weixin.qq.com/s/8s8_ARM4Cm4Hnvo-f2Ttnw)]**
 
 
 
 ## 好的研究想法如何产生
-- `` 我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！  **[[Link](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)]**
+- `2020.09.05` 我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！  **[[Link](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)]**
 
 
-2. [清华黄民烈：本科生如何做出好的科研](./report/undergrad-res.pdf).
+- `` 清华黄民烈：本科生如何做出好的科研  **[[Link](./report/undergrad-res.pdf)]**
 
 
 - `` 清华刘知远： 好的研究想法从哪里来  **[[Link](https://mp.weixin.qq.com/s/88mrVSz1JA0FB2-5toWCSg)]**
