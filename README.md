@@ -70,10 +70,10 @@
 - `2021.06.24` 目睹太多读博惨案之后，清华姚班助理教授写了个读博决策树  **[[Link](https://mp.weixin.qq.com/s/WXh1-V7nGORW3aFEz42axQ)]** 
 
 
-- '2021.06.30' 35岁那年，没有躺平，做了最重要的决定：读博士！  **[[Link](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ)]**
+- `2021.06.30` 35岁那年，没有躺平，做了最重要的决定：读博士！  **[[Link](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ)]**
 
 
-- `2021.08.24` **[[十年树木](https://mp.weixin.qq.com/s/MWwNBIBmev0DNIBZBX-Qsg)]**
+- `2021.08.24` 十年树木  **[[Link](https://mp.weixin.qq.com/s/MWwNBIBmev0DNIBZBX-Qsg)]**
 
 
 - `2021.06.30` 读博是一场肖申克的救赎？那些我读博之后才明白的道理！  **[[Link](https://mp.weixin.qq.com/s/nc0UEp0UAGyJi3Pqfra15w)]** 
@@ -263,10 +263,10 @@
 - `` 清华黄民烈：本科生如何做出好的科研  **[[Link](./report/undergrad-res.pdf)]**
 
 
-- `` 清华刘知远： 好的研究想法从哪里来  **[[Link](https://mp.weixin.qq.com/s/88mrVSz1JA0FB2-5toWCSg)]**
+- `2019.11.27` (清华刘知远)好的研究想法从哪里来  **[[Link](https://mp.weixin.qq.com/s/88mrVSz1JA0FB2-5toWCSg)]**
 
 
-- `` How to do Research  **[[PDF](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf)]**
+- `1988.10` How to do Research At the MIT AI Lab **[[PDF](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf)]**
 
 
 - `` 2万字超长干货论文，MIT人工智能实验室：如何做研究？  **[[Link](https://www.wxnmh.com/thread-5926286.htm)]**
