@@ -416,13 +416,13 @@
 - `2020.09.18` 最担心的事情还是发生了？SCI论文被拒稿的所有问题都在这里  **[[Link](https://www.toutiao.com/i6873611828962951694/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1600429810&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009181950090101441200672A04409B&group_id=6873611828962951694)]**
 
 
-- `` 如何把文献综述写得清新脱俗？  **[[Link](https://mp.weixin.qq.com/s/JG1bL6DTbnjZCYoUMLE3Lw)]**
+- `2020.07.28` 如何把文献综述写得清新脱俗？  **[[Link](https://mp.weixin.qq.com/s/JG1bL6DTbnjZCYoUMLE3Lw)]**
 
 
 - `` 李龙科. [如何做好⼀份学术报告 & 简单介绍 LaTeX 的使用]  **[[Link](http://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=2&resId=1&materialId=0&confId=681)]**
 
 
-- `` SCI论文写作 | 科研狗如何逃过审稿人暴击  **[[第一期](https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247503971&idx=1&sn=6caa6249e8b37210985b2b025ec08fd4&chksm=e8d1a7b8dfa62eaec6c11492acf7adb570081143c8e9acf29717f833735b01a8c364eb9008f8&scene=21#wechat_redirect)]** | **[[第二期](https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247504405&idx=2&sn=c308773d68d7b62faa69e504d5bc17c1&chksm=e8d1a5cedfa62cd891c59943ca7fbccae5804cfaca5692f80952851a1dc3c0ce0c89c000d9dc&scene=21#wechat_redirect)]** | **[[第三期](https://mp.weixin.qq.com/s/03yQTjfEPuYS94_8BlfF5g)]**
+- `2020.07.14-2020.08.10` SCI论文写作 | 科研狗如何逃过审稿人暴击  **[[第一期](https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247503971&idx=1&sn=6caa6249e8b37210985b2b025ec08fd4&chksm=e8d1a7b8dfa62eaec6c11492acf7adb570081143c8e9acf29717f833735b01a8c364eb9008f8&scene=21#wechat_redirect)]**  **[[第二期](https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247504405&idx=2&sn=c308773d68d7b62faa69e504d5bc17c1&chksm=e8d1a5cedfa62cd891c59943ca7fbccae5804cfaca5692f80952851a1dc3c0ce0c89c000d9dc&scene=21#wechat_redirect)]**  **[[第三期](https://mp.weixin.qq.com/s/03yQTjfEPuYS94_8BlfF5g)]**
 
 
 - `2020.07.30` 211硕士毕业作，第一篇1区SCI论文发表经验谈  **[[Link](https://www.toutiao.com/i6855168325979210244/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276403&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011806430101470830762152DB4D&group_id=6855168325979210244)]**
@@ -431,13 +431,14 @@
 - `2020.08.01` 中国学生写论文常见毛病：冗长、无聊、不注重用图美感？  **[[Link](https://mp.weixin.qq.com/s/sAlVnqsG_GqIUWA-JoX5gA)]**
 
 
-- `` William T.Freeman. [How to write a good paper (如何写好一篇顶会论文, 来自CVPR 2020)]  **[[Link](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q)]**
+- `2020.06.17` 【CVPR2020】如何写好一篇顶会论文？34页ppt，MIT&Google视觉大佬Bill Freeman亲授讲解)]  **[[Link](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q)]**
 
 
-- `2020.06.15` 《科研论文撰写策略》  **[[Link](https://mp.weixin.qq.com/s/u8pCkdHKzSQZglB2eLNZVA)]**
+- `2020.06.15` 如何写论文？看下这份《科研论文撰写策略》为你指点一二  **[[Link](https://mp.weixin.qq.com/s/u8pCkdHKzSQZglB2eLNZVA)]**
 
 
-- `2020.05.15` How to write an effective paper summary? (如何写一份有效的机器学习/自然语言处理论文摘要)  **[[Link](https://mp.weixin.qq.com/s/3CDt9YIIQFRYlcTf9Itvmw)]** **[[PPT](./tutorials/How_to_write_an_effective_ML_or_NLP_paper_summary.pdf)]**
+- `2020.05.17` How to write an effective paper summary? (如何写一份有效的机器学习/自然语言处理论文摘要？Elvis Saravia)  **[[Link](https://mp.weixin.qq.com/s/3CDt9YIIQFRYlcTf9Itvmw)]**
+- **[[PPT](./tutorials/How_to_write_an_effective_ML_or_NLP_paper_summary.pdf)]**
 
 
 - `2020.05.02` 高产来自“长期主义”：智源学者朱军谈ICLR 2020 全球发文第二的经验法则  **[[Link](https://mp.weixin.qq.com/s/YfMbhXYSM8lgc0-HirGAeg)]**
