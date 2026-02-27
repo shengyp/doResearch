@@ -444,7 +444,19 @@
 - `2020.05.02` 高产来自“长期主义”：智源学者朱军谈ICLR 2020 全球发文第二的经验法则  **[[Link](https://mp.weixin.qq.com/s/YfMbhXYSM8lgc0-HirGAeg)]**
 
 
-- `2020.04.02`【智源论坛Live】 [论文写作小白的成长之路]  **[[Link](https://mp.weixin.qq.com/s/L3rNCFl6MLxcd8mIM5-cng)]**  智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/兰艳艳_中科院_论文写作小白的成长之路.pdf) | [如何以初学者的身份写好一篇国际学术论文](https://mp.weixin.qq.com/s/v8AuRYtLuQoRkwgsreqsZw). 2020.04.10 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/赵鑫_中国人民大学_如何以初学者的身份写好一篇国际学术论文.pdf) | [计算机视觉会议论文从投稿到接收]. 2020.03.17 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/施柏鑫_北京大学_计算机视觉会议论文从投稿到接收.pdf)
+- ``【智源论坛Live】论文写作小白的成长之路  **[[Link](https://mp.weixin.qq.com/s/L3rNCFl6MLxcd8mIM5-cng)]**
+
+
+- `` 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/兰艳艳_中科院_论文写作小白的成长之路.pdf) 
+
+
+- ``[如何以初学者的身份写好一篇国际学术论文](https://mp.weixin.qq.com/s/v8AuRYtLuQoRkwgsreqsZw).
+
+
+- `` 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/赵鑫_中国人民大学_如何以初学者的身份写好一篇国际学术论文.pdf)
+
+
+- `` 计算机视觉会议论文从投稿到接收 2020.03.17 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/施柏鑫_北京大学_计算机视觉会议论文从投稿到接收.pdf)
 
 
 - `2020.04.01` 人大赵鑫： 如何以初学者角度写好一篇国际学术论文  **[[Link](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw)]** **[[Video](http://www.mooc.ai/course/778)]**
