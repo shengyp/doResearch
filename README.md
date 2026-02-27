@@ -471,7 +471,7 @@
 - `2020.03.13` 本科4篇顶会论文如何做到？清华特奖高天宇干货分享：我是这样写论文、做实验、与导师相处  **[[Link](https://mp.weixin.qq.com/s/iaNTQ5WnLIpqNlytGa7N4g)]** **[[Video](https://www.bilibili.com/video/av95344119)]**
 
 
--2020.03.08 必看！清华大学刘洋教授「浅谈研究生学位论文选题]方法， 3月7日1小时视频公开课(https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). 2020.03.07, 1h视频公开课. [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394)
+- `` 必看！清华大学刘洋教授「浅谈研究生学位论文选题]方法， 3月7日1小时视频公开课  **[[Link](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q)] [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394)
 
 
 - `2019.11.28` 如何写一篇合格的NLP论文？  **[[Link](https://mp.weixin.qq.com/s/q0AHWxMBFwehzjYvqYPdFA)]**
@@ -490,10 +490,10 @@
 - `2019.01.10` SCI高级句型改造原则与技巧  **[[Link](https://www.sohu.com/a/288105939_773056)]**
 
 
-施一公：我有6个办法提高英文科研写作能力(http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07 
+- `2018.12.07` 施一公：我有6个办法提高英文科研写作能力  **[[Link](http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml)]**
 
 
-施一公：高年级博士、博士后、PI如何提高英文科研写作能力？](https://mp.weixin.qq.com/s/rQRoqO8Oxoidpfp_OFONKw)2020.08.18
+- `2020.08.18` 施一公：高年级博士、博士后、PI如何提高英文科研写作能力？  **[[Link](https://mp.weixin.qq.com/s/rQRoqO8Oxoidpfp_OFONKw)]**
 
 
 - `2018.01.07` 教你六步写好一篇学术论文  **[[Link](https://www.sohu.com/a/215177192_683950)]** 
@@ -581,6 +581,8 @@
 
 
 - `2022.01.16` 【经典】清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作  **[[PDF](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)]**
+
+
 - `2022.03.13` 清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作  **[[Link](https://pan.baidu.com/s/1Ynq94J7v2kXs_ZTvSSu9gA?pwd=qrd9)]** 
 
 
