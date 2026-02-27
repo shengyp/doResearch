@@ -272,22 +272,22 @@
 - `` 2万字超长干货论文，MIT人工智能实验室：如何做研究？  **[[Link](https://www.wxnmh.com/thread-5926286.htm)]**
 
 
-6. [周志华：如何做研究，如何写论文](./report/如何做研究-如何写论文.pdf). 
+6.[周志华：如何做研究，如何写论文](./report/如何做研究-如何写论文.pdf). 
 
 
 7. [An Introduction to your Research Journey at Otago](./tutorials/An_Introduction_to_your_Research_Journey_at_Otago.pdf).
 
 
-- `2019.08.19` 信息图汇总： 挖掘优秀研究问题的6种方法、科研论文要素、如何阅读期刊文章  **[[Link](https://mp.weixin.qq.com/s/JlFnO9N92oQs2PqUE2WVfQ)]**  
+- `2019.08.19` 信息图汇总：挖掘优秀研究问题的6种方法、科研论文要素、如何阅读期刊文章  **[[Link](https://mp.weixin.qq.com/s/JlFnO9N92oQs2PqUE2WVfQ)]**  
 
 
-- `2019.07.08` 施一公：如何一个通宵写出「Nature」文章  **[[Link](https://www.sohu.com/a/240043800_773043)]**
+- `2018.07.08` 施一公：如何一个通宵写出「Nature」文章  **[[Link](https://www.sohu.com/a/240043800_773043)]**
 
 
 - `2021.02.12` 原来搞科研的都是段子手，哈哈哈哈哈哈哈…  **[[Link](https://mp.weixin.qq.com/s/502_dP6StAaPki770-BYSA)]**
 
 
-- `2021.03.19` 做科研不顺？研毕？导师解密研究生时间管理  **[[Link](https://mp.weixin.qq.com/s/Ro6G_pSK1LBby7dIvydq5Q)]**
+- `2021.03.20` 做科研不顺？研毕？导师解密研究生时间管理  **[[Link](https://mp.weixin.qq.com/s/Ro6G_pSK1LBby7dIvydq5Q)]**
 
 
 - `2021.01.04` How to Look for Ideas in Computer Science Research  **[[Link](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f)]**
@@ -299,13 +299,13 @@
 - `2021.05.18` 第一：做学位论文期间，不要有任何度假休息的打算；第二，导师错的时候不多；第三……  **[[Link](https://mp.weixin.qq.com/s/LbenjoZyKOqitmKbkeflSg)]** 
 
 
-- `2021.06.08` 四位博士分享学位论文选题心得：让后来人少掉坑  **[[Link](https://mp.weixin.qq.com/s/H2ZOatGZiZ5slh94RZwFsQ)]**
+- `2021.06.07` 四位博士分享学位论文选题心得：让后来人少掉坑  **[[Link](https://mp.weixin.qq.com/s/H2ZOatGZiZ5slh94RZwFsQ)]**
 
 
 - `2021.06.24` 读博时的我急于求成陷入焦虑，导师告诫我“科研就是游戏人生”  **[[Link](https://mp.weixin.qq.com/s/eULBoPhjA0Tllg1EGZj3tg)]** 
 
 
-- `2021.07.12` 为了一个科研idea，博士生们连冥想、巫毒仪式都用上了｜Reddit热议  **[[Link](https://mp.weixin.qq.com/s/mku8fyxcctKYeu-Xo8tPCQ)]** 
+- `2021.07.11` 为了一个科研idea，博士生们连冥想、巫毒仪式都用上了｜Reddit热议  **[[Link](https://mp.weixin.qq.com/s/mku8fyxcctKYeu-Xo8tPCQ)]** 
 
 
 - `2021.08.16` H.T. Kung 关于研究的有用建议  **[[Link](https://mp.weixin.qq.com/s/wVTmQB48bAAyr7z1ynLkhA)]** 
@@ -314,13 +314,10 @@
 - `2021.09.04` 透彻！博士生成长需要经历的7道门  **[[Link](https://mp.weixin.qq.com/s/DtfPxpsn5vToeWkKaNTFXQ)]**
 
 
-- `2021.09.05` 对自己深度学习方向的论文有idea，可是工程实践能力跟不上，实验搞不定怎么办？  **[[Link](https://mp.weixin.qq.com/s/uVsLaurnhWxU_rRXQTMBRw)]**
+- `` 对自己深度学习方向的论文有idea，可是工程实践能力跟不上，实验搞不定怎么办？  **[[Link](https://mp.weixin.qq.com/s/uVsLaurnhWxU_rRXQTMBRw)]**
 
 
-- `2021.09.08` 刘铁岩：科研到底怎么做？什么是高质量研究？  **[[Link](https://mp.weixin.qq.com/s/Gj8z_u8xmQZckiVdktES7w)]**
-
-
-- `2021.09.23` 对话 DenseNet 一作黄高：做有韧劲、能抗压、不断探索未知的科研  **[[Link](https://mp.weixin.qq.com/s/69S7613m7zVQQrsGU5IfFA)]**
+- `2021.09.24` 对话 DenseNet 一作黄高：做有韧劲、能抗压、不断探索未知的科研  **[[Link](https://mp.weixin.qq.com/s/69S7613m7zVQQrsGU5IfFA)]**
 
 
 - `2021.10.14` 做失败科研的10个方法  **[[PDF](http://www.cips-cl.org/static/CCL2019/downloads/stuPPT/02.pdf)]** **[[Report](https://mp.weixin.qq.com/s/1ulj5xVDdQKZ-Jku0pT5_A)]**
@@ -340,7 +337,7 @@
 - `2020.08.04` 沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题  **[[Link](https://mp.weixin.qq.com/s/xGC8JGNWvOOV8IT0fMViGg)]** 
 
 
-- `` 沈向洋. [沈向洋：读论文的三个层次]  **[[Link(https://mp.weixin.qq.com/s/DTPLmmi0W3K5f865Gj1SWg)]**
+- `2020.05.29` 沈向洋：读论文的三个层次  **[[Link](https://mp.weixin.qq.com/s/DTPLmmi0W3K5f865Gj1SWg)]**
 
 
 - `2019.10.11` 如何读论文才不至于发疯？  **[[Link](https://mp.weixin.qq.com/s/ERaLDI4bVTbbEmX8aVwrOg)]**
@@ -349,13 +346,13 @@
 - `` How to Read a Paper  **[[PDF](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)]**
 
 
-- `` 如何学会读论文？三轮阅读法  **[[Link](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/103839697)]**
+- `2020.01.04` 如何学会读论文？送你滑铁卢大学S.Keshav的三轮阅读法  **[[Link](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/103839697)]**
 
 
 - `2022.03.21` 【MIT Sam Hopkins教授】如何读论文？How to Read a Paper  **[[Link](https://mp.weixin.qq.com/s/_CoukV6mD6WI5rAYAEsKbQ)]** 
 
 
-- `2019.02.25` 一文教你如何快速高效阅读Paper（硕士生版)  **[[Link](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/87871121)]** 
+- `2019.02.21` 干货|一文教你如何快速高效阅读Paper（硕士生版)  **[[Link](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/87871121)]** 
 
 
 - `2021.02.17`如何快速理解一篇 ML 论文的要点？谷歌 Robotics 研究科学家：只要记住5个问题  **[[Link](https://mp.weixin.qq.com/s/_wEjFjNk12loXTuPlp38tQ)]** 
