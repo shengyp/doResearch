@@ -580,13 +580,13 @@
 - `2022.01.16` 医学影像AI新晋IEEE Fellow「大论道」：后深度学习时代的记录、风向与产学思考  **[[Link](https://mp.weixin.qq.com/s/xITvLtP9sMwArReE159ZAw)]**
 
 
-- `2022.01.16` 【经典】清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作  **[[PDF](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)]**
+- `2014.11` 【经典】清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作  **[[PDF](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)]**
 
 
-- `2022.03.13` 清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作  **[[Link](https://pan.baidu.com/s/1Ynq94J7v2kXs_ZTvSSu9gA?pwd=qrd9)]** 
+- `2022.03.12` 清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作  **[[PDF](https://pan.baidu.com/s/1Ynq94J7v2kXs_ZTvSSu9gA?pwd=qrd9)]** 
 
 
-- `2022.05.18` 写好一篇机器学习顶会论文  **[[Link](https://pan.baidu.com/s/1jHblTOZOuotktjVc9PzCEg?pwd=63dt)]** **[[Report](
+- `2022.05.18` 快截稿了，怎么写好你的NeurIPS2022论文？牛津大学副教授Jakob倾心讲解《写好一篇机器学习顶会论文》关键要点，必看！  **[[PDF](https://pan.baidu.com/s/1jHblTOZOuotktjVc9PzCEg?pwd=63dt)]** **[[Link](
 https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g)]**
 
 
@@ -598,15 +598,15 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g)]**
 
 
 ## ArXiv
-- `2021.09.23` 上传arXiv如何选择期刊允许的license  **[[Link](https://mp.weixin.qq.com/s/cK_AZklHlivvgUjM76JLaw)]**
+- `2021.09.24` 上传arXiv如何选择期刊允许的license  **[[Link](https://mp.weixin.qq.com/s/cK_AZklHlivvgUjM76JLaw)]**
 
 
 
 ## 如何投论文
-- `2020.10.30` 投稿过程中三两遭遇后的一些思考！  **[[Link](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g)]
+- `2020.11.30` 投稿过程中三两遭遇后的一些思考！  **[[Link](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g)]
 
 
-- `2020.10.26` 国内唯一ACL最佳论文得主冯洋：冲击最佳论文需要知道的事情  **[[Link](https://mp.weixin.qq.com/s/xQTsJJrRx7RGSIPOge-gFA)]**
+- `2020.11.26` 国内唯一ACL最佳论文得主冯洋：冲击最佳论文需要知道的事情  **[[Link](https://mp.weixin.qq.com/s/xQTsJJrRx7RGSIPOge-gFA)]**
 
 
 - `2021.01.22`有的论文，没做好、没改好，就不要急着投稿了！否则，认为你是在学术投机……  **[[Link](https://mp.weixin.qq.com/s/Iyw7noJQZGsTte7zxpxEHQ)]**
@@ -615,13 +615,13 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g)]**
 - `2021.03.11` 无心插柳 | 聊聊我的 ACL2020 论文  **[[Link](https://mp.weixin.qq.com/s/54TICyYYL76LGuke8Cwnzw)]**
 
 
-- `2021.07.02` 投稿前先给期刊编辑发个邮件，说不定文章接收得更快哦  **[[Link](https://www.toutiao.com/i6980175614674223629/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1625374499&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202107041254590101512171045E0446EF&share_token=a5a63611-a3b2-4712-9589-74c13e3a13fd&group_id=6980175614674223629&wid=1625399365379)]**
+- `` 投稿前先给期刊编辑发个邮件，说不定文章接收得更快哦  **[[Link](https://www.toutiao.com/i6980175614674223629/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1625374499&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202107041254590101512171045E0446EF&share_token=a5a63611-a3b2-4712-9589-74c13e3a13fd&group_id=6980175614674223629&wid=1625399365379)]**
 
 
 - `2021.07.06` 计算机顶会论文投稿指南  **[[Link](https://mp.weixin.qq.com/s/ro74V_IzOmhLvE2yDYYlPw)]**
 
 
-- `2021.07.15` UESTCer研习社 | 《SCI投稿不完全指北》  **[[Link](https://mp.weixin.qq.com/s/VNhMJe5TihvIa8oOFwRRiw)]**
+- `` UESTCer研习社 | 《SCI投稿不完全指北》  **[[Link](https://mp.weixin.qq.com/s/VNhMJe5TihvIa8oOFwRRiw)]**
 
 
 - `2021.09.15` 必看 | 投稿时推荐的审稿人编辑会采用吗？该如何正确推荐审稿人？
@@ -641,7 +641,7 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g)]**
 
 
 ## 如何审论文
-- `2021.11.15` How to be a good reviewer?  Reviewer Tutorial for CVPR 2022  **[[Link](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)]**  **[[Report](https://mp.weixin.qq.com/s/G-tYOXGMjTTj9RIKmIX7xQ)]**
+- `2021.11.05` How to be a good reviewer?  Reviewer Tutorial for CVPR 2022  **[[PDF](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)]**  **[[Link](https://mp.weixin.qq.com/s/G-tYOXGMjTTj9RIKmIX7xQ)]**
 
 
 - `2022.02.13` 当我们谈科学研究的创新性时，我们在谈些什么？——给审稿人的一封信  **[[Link](https://mp.weixin.qq.com/s/PO8kn0oK_9EqplzYHc2UBQ)]**
@@ -658,11 +658,11 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g)]**
 
 
 ## 同行评审
-- `2021.05.29` 同行评审就是个笑话！Nature最新爆料计算机生成的垃圾文章竟还能被接受，64%来自中国  **[[Link](https://mp.weixin.qq.com/s/X94rjuqJTlT4juSzAAeYSQ)]**
+- `2021.05.28` 同行评审就是个笑话！Nature最新爆料计算机生成的垃圾文章竟还能被接受，64%来自中国  **[[Link](https://mp.weixin.qq.com/s/X94rjuqJTlT4juSzAAeYSQ)]**
 
 
-- `2021.10.15` 做个好审稿人吧！！！  **[[Link](https://sites.google.com/view/making-reviews-great-again/home) . [[Report]](https://mp.weixin.qq.com/s/895x7v13F8A7Ad_eKkSldQ) 
-
+- `2021.10.15` 做个好审稿人吧！！！   **[[Report](https://mp.weixin.qq.com/s/895x7v13F8A7Ad_eKkSldQ)]** 
+- `` **[[Link](https://sites.google.com/view/making-reviews-great-again/home)]**
 
 - `2022.01.01` 投稿人就是AI顶会最好的「审稿人」！中国学者提出同行评审新机制  **[[Link](https://mp.weixin.qq.com/s/CmgHPLhVGnd1ifXdY5q3iw)]**
 
@@ -678,7 +678,7 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g)]**
 
 
 ## 审稿状态
-- `2021.05.14` 发表的sci论文怎么样了，分享15种sci投稿状态  **[[Link](https://www.toutiao.com/i6961988009797468676/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1620996150&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210514204229010151180084320B8775&share_token=4cbeda6e-33ce-4dcf-80c4-eafb91432fd3&group_id=6961988009797468676)]**
+- `` 发表的sci论文怎么样了，分享15种sci投稿状态  **[[Link](https://www.toutiao.com/i6961988009797468676/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1620996150&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210514204229010151180084320B8775&share_token=4cbeda6e-33ce-4dcf-80c4-eafb91432fd3&group_id=6961988009797468676)]**
 
 
 
@@ -686,15 +686,11 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g)]**
 - `2020.08.10` Nature：13个维度，手把手教“研究er”如何做报告  **[[Link](https://mp.weixin.qq.com/s/b-jhXzUkfI-am2bcwR_aDA)]**
 
 
-- `2021.05.27` 如何做好一场报告？斯坦福Kayvon教授《清晰报告指南》为您讲解  **[[PDF](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf)]**
-
-
-- `2021.05.27` **[[如何做好一场报告？斯坦福Kayvon教授《清晰报告指南》为您讲解，附69页ppt](https://mp.weixin.qq.com/s/UEp8zhCpsrQFEQ51tQ8wKg)]** 
-
+- `2021.05.27` 如何做好一场报告？斯坦福Kayvon教授《清晰报告指南》为您讲解  **[[Link](https://mp.weixin.qq.com/s/UEp8zhCpsrQFEQ51tQ8wKg)]** **[[PDF](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf)]**
 
 
 ## 不可小觑的论文工厂
-- `2022.03.15` 海外学术造假“论文工厂”正在蓬勃发展  **[[Link](https://www.toutiao.com/i7075222373150016038/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1647395724&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20220316095523010158149148202F5F54&share_token=5e748cdc-0f78-4efe-97ee-0b9b0e27ea7e&group_id=7075222373150016038)]**
+- `` 海外学术造假“论文工厂”正在蓬勃发展  **[[Link](https://www.toutiao.com/i7075222373150016038/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1647395724&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20220316095523010158149148202F5F54&share_token=5e748cdc-0f78-4efe-97ee-0b9b0e27ea7e&group_id=7075222373150016038)]**
 
 
 
