@@ -459,19 +459,19 @@
 - `` 计算机视觉会议论文从投稿到接收 2020.03.17 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/施柏鑫_北京大学_计算机视觉会议论文从投稿到接收.pdf)
 
 
-- `2020.04.01` 人大赵鑫： 如何以初学者角度写好一篇国际学术论文  **[[Link](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw)]** **[[Video](http://www.mooc.ai/course/778)]**
+- `2020.04.01` 【人大赵鑫老师】如何以初学者角度写好一篇国际学术论文？  **[[Link](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw)]** **[[Video](http://www.mooc.ai/course/778)]**
 
 
 - `2020.03.29` 【SCI】牛人写SCI常用经典词和常用句型  **[[Link](https://mp.weixin.qq.com/s/-j_5iQZs_8DzqMfLYt7L4g)]**
 
 
-- `2020.03.21` 厦大林子雨： 论文是怎样炼成的  **[[Link](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg)]** **[[PPT](http://dblab.xmu.edu.cn/wp-content/uploads/2012/01/%E8%AE%BA%E6%96%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%83%E6%88%90%E7%9A%84-%E6%9E%97%E5%AD%90%E9%9B%A8-%E5%8E%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.pdf)]**
+- `2020.03.21` 【经典】论文是怎样炼成的，125页PPT教你研究生毕业通关秘籍  **[[Link](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg)]** **[[PPT](http://dblab.xmu.edu.cn/wp-content/uploads/2012/01/%E8%AE%BA%E6%96%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%83%E6%88%90%E7%9A%84-%E6%9E%97%E5%AD%90%E9%9B%A8-%E5%8E%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.pdf)]**
 
 
 - `2020.03.13` 本科4篇顶会论文如何做到？清华特奖高天宇干货分享：我是这样写论文、做实验、与导师相处  **[[Link](https://mp.weixin.qq.com/s/iaNTQ5WnLIpqNlytGa7N4g)]** **[[Video](https://www.bilibili.com/video/av95344119)]**
 
 
-21. [清华大学刘洋教授： 浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). 2020.03.07, 1h视频公开课. [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394)
+-2020.03.08 必看！清华大学刘洋教授「浅谈研究生学位论文选题]方法， 3月7日1小时视频公开课(https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). 2020.03.07, 1h视频公开课. [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394)
 
 
 - `2019.11.28` 如何写一篇合格的NLP论文？  **[[Link](https://mp.weixin.qq.com/s/q0AHWxMBFwehzjYvqYPdFA)]**
@@ -480,22 +480,29 @@
 - `2019.09` How to Write a Good Scientific Paper  **[[PDF](https://spie.org/samples/9781510619142.pdf)]**
 
 
-24. [Writing a scientific paper, step by painful step](./tutorials/Lafferty_WritingScientificPaper.pdf) | [Styling and structuring the literature review](./tutorials/Styling_and_structuring_the_literature_review.pdf) | [Translanguaging and Academic Writing](./tutorials/Translanguaging_Academic_Writing.pdf) | [Writing a Literature Review](./tutorials/Writing_a_Literature_Review.pdf) | [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
+24. [Writing a scientific paper, step by painful step](./tutorials/Lafferty_WritingScientificPaper.pdf)
+25.  [Styling and structuring the literature review](./tutorials/Styling_and_structuring_the_literature_review.pdf)
+26.   [Translanguaging and Academic Writing](./tutorials/Translanguaging_Academic_Writing.pdf)
+27.    [Writing a Literature Review](./tutorials/Writing_a_Literature_Review.pdf)
+28. [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
 
 
 - `2019.01.10` SCI高级句型改造原则与技巧  **[[Link](https://www.sohu.com/a/288105939_773056)]**
 
 
-26. [施一公：我有6个办法提高英文科研写作能力](http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07 | [施一公：高年级博士、博士后、PI如何提高英文科研写作能力？](https://mp.weixin.qq.com/s/rQRoqO8Oxoidpfp_OFONKw)
+施一公：我有6个办法提高英文科研写作能力(http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07 
+
+
+施一公：高年级博士、博士后、PI如何提高英文科研写作能力？](https://mp.weixin.qq.com/s/rQRoqO8Oxoidpfp_OFONKw)2020.08.18
 
 
 - `2018.01.07` 教你六步写好一篇学术论文  **[[Link](https://www.sohu.com/a/215177192_683950)]** 
 
 
-- `2016` How I Write: An Inquiry Into the Writing Practices of Academics  **[[Link](http://sage.cnpereading.com/paragraph/download/10.1177/1056492615585875)]**
+- `` How I Write: An Inquiry Into the Writing Practices of Academics  **[[Link](http://sage.cnpereading.com/paragraph/download/10.1177/1056492615585875)]**
 
 
-- `2014.11` 机器翻译学术论文写作方法和技巧  **[[PDF](./report/cwmt14_tut.pdf)]**
+- `` 机器翻译学术论文写作方法和技巧  **[[PDF](./report/cwmt14_tut.pdf)]**
 
 
 - `2021.01.13` 怎么写文献综述?  **[[Link](https://mp.weixin.qq.com/s/XO8tQnVByAZbf9xJT4ePKw)]**
@@ -504,7 +511,7 @@
 - `2021.01.29` 发顶会论文，怎么就那么难？  **[[Link](https://mp.weixin.qq.com/s/YVWr9JSqT2YMx1k63lyp2A)]**  
 
 
-- `2021.02.02` 如何撰写科研论文的讨论部分  **[[Link](https://mp.weixin.qq.com/s/v-ZyI0B2UKYzmuE79q0z1g)]**
+- `2021.02.01` 如何撰写科研论文的讨论部分  **[[Link](https://mp.weixin.qq.com/s/v-ZyI0B2UKYzmuE79q0z1g)]**
 
 
 - `2021.03.17` SCI论文框架构思及其“潜规则”！（珍藏级）  **[[Link](https://mp.weixin.qq.com/s/1ZIxNG10fGX1eIRx_ESPDw)]**
@@ -513,7 +520,7 @@
 - `2021.03.26` 第一次写论文无从下手？6点建议必看！  **[[Link](https://mp.weixin.qq.com/s/6UomFdUbFeEgm3aBeUuEtw)]**
 
 
-- `2021.04.05` 如何在短时间内写出一篇高质量的学术论文（Ⅱ）  **[[Link](https://www.toutiao.com/i6947572509764108814/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617618413&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104051826530101511962210398B14A&share_token=63898ddc-d95b-49a3-a87d-c91685ec39a4&group_id=6947572509764108814)]**
+- `` 如何在短时间内写出一篇高质量的学术论文（Ⅱ）  **[[Link](https://www.toutiao.com/i6947572509764108814/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617618413&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104051826530101511962210398B14A&share_token=63898ddc-d95b-49a3-a87d-c91685ec39a4&group_id=6947572509764108814)]**
 
 
 - `2021.04.03` 论文结论和摘要的区别！同学们要做好小笔记  **[[Link](https://www.toutiao.com/i6946775662019756575/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617464292&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104032338120101512171041442FF9B&share_token=5366f57b-1638-4590-bf29-1f66785232a7&group_id=6946775662019756575)]**
@@ -522,25 +529,25 @@
 - `2021.04.18` 把自己的拖延症数据写成论文，MIT天体物理博士小姐姐真做到了  **[[Link](https://mp.weixin.qq.com/s/EdYU8WYwXfkIe4Lz7Vbj8g)]**
 
 
-- `2021.04.20` 清华刘知远：如何写一篇合格的NLP论文  **[[Link](https://mp.weixin.qq.com/s/TMVlzHq9FSp1C1HcskG6ow)]**
+- `` 清华刘知远：如何写一篇合格的NLP论文  **[[Link](https://mp.weixin.qq.com/s/TMVlzHq9FSp1C1HcskG6ow)]**
 
 
 - `2021.06.23` 北京大学施柏鑫：从审稿人视角，谈谈怎么写一篇CVPR论文  **[[Link](https://mp.weixin.qq.com/s/YN3Ij_4gBxaWVRHn14va4w)]**
 
 
-- `2021.07.02` 如何发表SCI？  **[[Link](https://www.wukong.com/question/6491670742843785486/)]**
+- `` 如何发表SCI？  **[[Link](https://www.wukong.com/question/6491670742843785486/)]**
 
 
-- `2021.07` How to Write a Research Paper  **[[PDF](https://www.natalieparde.com/files/how_to_write_a_research_paper.pdf)]** Dr. Natalie Parde. 
+- `2021.07` How to Write a Research Paper  **[[PDF](https://www.natalieparde.com/files/how_to_write_a_research_paper.pdf)]** 
 
 
-42. [清华大学刘洋教授： 如何撰写高质量科技论文](./report/如何撰写高质量科技论文.pdf). 2021.06. [[Report]](http://dblab.xmu.edu.cn/wp-content/uploads/2012/01/%E8%AE%BA%E6%96%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%83%E6%88%90%E7%9A%84-%E6%9E%97%E5%AD%90%E9%9B%A8-%E5%8E%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.pdf). 
+清华大学刘洋教授： 如何撰写高质量科技论文](./report/如何撰写高质量科技论文.pdf). 2021.06. [[Report]](http://dblab.xmu.edu.cn/wp-content/uploads/2012/01/%E8%AE%BA%E6%96%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%83%E6%88%90%E7%9A%84-%E6%9E%97%E5%AD%90%E9%9B%A8-%E5%8E%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.pdf). 
 
 
 - `2021.07.20` 清华刘洋：论文写作，信息为表，逻辑为骨，思想为心  **[[Link](https://mp.weixin.qq.com/s/1Lo4KxRy1FeHWiBJL1TpUg)]**
 
 
-- `2021.08.16` 如何写一篇不水的机器学习论文？  **[[Link](https://www.toutiao.com/i6996915308405572129/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629122793&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210816220632010150201104150246B8&share_token=9efac44e-5c67-4aba-a7f3-b9418fbcd5af&group_id=6996915308405572129)]**
+- `` 如何写一篇不水的机器学习论文？  **[[Link](https://www.toutiao.com/i6996915308405572129/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629122793&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210816220632010150201104150246B8&share_token=9efac44e-5c67-4aba-a7f3-b9418fbcd5af&group_id=6996915308405572129)]**
 
 
 - `2021.08.22` 清华刘洋：论文写作，信息为表，逻辑为骨，思想为心  **[[Link](https://mp.weixin.qq.com/s/BsLH0L9g8PRTI8bYjB9boQ)]**
@@ -552,16 +559,16 @@
 - `2021.09.22` 给新入学博士发表撰写论文的一些建议  **[[Link](https://mp.weixin.qq.com/s/zChDacyK7Iji_2a6Xd_2ag)]**
 
 
-- `2021.10.18` 博士论文写不好？Barrett博士发超强攻略，手把手教你写论文  **[[PDF](https://ebn.bmj.com/content/ebnurs/24/1/1.full.pdf)]** **[[Report](https://mp.weixin.qq.com/s/XkjdgWFoamxIMIP7pv-Yhw)]**
+- `2021.10.18` 博士论文写不好？Barrett博士发超强攻略，手把手教你写论文  **[[PDF](https://ebn.bmj.com/content/ebnurs/24/1/1.full.pdf)]** **[[Link](https://mp.weixin.qq.com/s/XkjdgWFoamxIMIP7pv-Yhw)]**
 
 
-- `2021.10.22` Writing for Impact:	How	to Prepare a Journal Article  **[[PDF](https://www.medicine.umich.edu/sites/default/files/content/downloads/WritingResearchPaper_Ibrahim_0.pdf)]**
+- `` Writing for Impact:	How	to Prepare a Journal Article  **[[PDF](https://www.medicine.umich.edu/sites/default/files/content/downloads/WritingResearchPaper_Ibrahim_0.pdf)]**
 
 
 - `` 如何撰写好一篇论文？密歇根Andrew教授为你细致讲解论文写作  **[[Link](https://www.toutiao.com/i7020383362401518092/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1634915062&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110222304220101511521440F8EA947&share_token=f2c1c6fd-def4-4260-884d-519879daf2d0&group_id=7020383362401518092)]**
 
 
-- `2021.11.15` CVPR 9999 Best Paper——《一种加辣椒的番茄炒蛋》  **[[Link](https://zhuanlan.zhihu.com/p/433237905?utm_source=wechat_session&utm_medium=social&utm_oi=34034784665600&wechatShare=2&s_r=0)]**
+- `2021.11.19` CVPR 9999 Best Paper——《一种加辣椒的番茄炒蛋》  **[[Link](https://zhuanlan.zhihu.com/p/433237905?utm_source=wechat_session&utm_medium=social&utm_oi=34034784665600&wechatShare=2&s_r=0)]**
 
 
 - `2021.11.26` 吐血整理：论文写作中注意这些细节，能显著提升成稿质量  **[[Link](https://mp.weixin.qq.com/s/1ykqoLWjy3WhczAvb_eOoQ)]**
